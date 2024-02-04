@@ -6,13 +6,16 @@
 
 ### Hi there 👋
 
-- 😄 I'm LJ, aka Kelu Ghosh or @kelu124.
-- 👯 I’m looking to collaborate on ultrasound stuff. You'll see my repos ;)
+- 😄 I'm LJ, aka Kelu Ghosh or @kelu124. On a sabbatical in 2024 - stats (hopefully) to reflect this ;)
+  
+- 👯 I’m looking to collaborate on open projects, ai/llms, ultrasound stuff. You'll see my repos ;)
   - ⚡ Check more on my ultrasound pages: http://un0rick.cc/
   - 💥 I'm on Hackaday too blowing stuff up : https://hackaday.io/kelu124
-  - 🏫 Poor quality papers at https://www.researchgate.net/profile/Luc-Jonveaux 
-- 📰 Substack : https://kghosh.substack.com/ - trying to do to futurism
+  - 🏫 Poor quality papers at https://www.researchgate.net/profile/Luc-Jonveaux
+  - Website for personal branding at [KGhosh.me](https://kghosh.me/)
+- 📰 Substack : [https://kghosh.substack.com/](https://substack.kghosh.me/) - trying to do to futurism
 - 🌱 I got back into coding in .. early 90s, testing BASIC on the Apple ][ my father used to write his thesis. Since, I've tested a few languages, broken a few things but hopefully built more].
+  
 - 💬  I'm into
   - open source, especially hardware, been dabbling cofounder of the echOpen association in 2014, but also promoting the use of open-source ultrasound hardware to give affordable, accessible tools to students and researchers
   - retroengineering
