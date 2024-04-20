@@ -24,6 +24,7 @@
   - Then the [lit3-32](https://github.com/kelu124/lit3rick/tree/lit3-32), using more gain
   - Then the [pic0rick](https://github.com/kelu124/pic0rick/) - based on a raspberry pico
   - Along with [PMOD-modules](https://github.com/kelu124/PMOD_rp2040)
+  - A fast [rp2040 acq board](https://github.com/kelu124/0xa5eded)
   - And plenty of other stuff ( [AD8332 dev board](https://github.com/kelu124/AD8332-devboard), [FT600 PMOD](https://github.com/kelu124/ft600), [HV9150 HV Source](https://github.com/kelu124/HV9150DevKit), ... )
   
 - 💬  I'm into
