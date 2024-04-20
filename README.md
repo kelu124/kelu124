@@ -12,16 +12,26 @@
   - ⚡ Check more on my ultrasound pages: http://un0rick.cc/
   - 💥 I'm on Hackaday too blowing stuff up : https://hackaday.io/kelu124
   - 🏫 Poor quality papers at https://www.researchgate.net/profile/Luc-Jonveaux
-  - Website for personal branding at [KGhosh.me](https://kghosh.me/)
+  - Website for fun stuff at [KGhosh.me](https://kghosh.me/)
 - 📰 Substack : [https://kghosh.substack.com/](https://substack.kghosh.me/) - trying to do to futurism
 - 🌱 I got back into coding in .. early 90s, testing BASIC on the Apple ][ my father used to write his thesis. Since, I've tested a few languages, broken a few things but hopefully built more].
+    
+- 📫 More on hardware:
+  - The initial [beaglebone board, Murgen](https://github.com/kelu124/murgen-dev-kit)
+  - The [ultrasound modules](https://github.com/kelu124/echomods/) 
+  - The first fpga board, [un0rick](https://github.com/kelu124/un0rick) - large and efficient
+  - Then the [lit3rick](https://github.com/kelu124/lit3rick/)
+  - Then the [lit3-32](https://github.com/kelu124/lit3rick/tree/lit3-32), using more gain
+  - Then the [pic0rick](https://github.com/kelu124/pic0rick/) - based on a raspberry pico
+  - Along with [PMOD-modules](https://github.com/kelu124/PMOD_rp2040)
+  - And plenty of other stuff ( [AD8332 dev board](https://github.com/kelu124/AD8332-devboard), )
   
 - 💬  I'm into
   - open source, especially hardware, been dabbling cofounder of the echOpen association in 2014, but also promoting the use of open-source ultrasound hardware to give affordable, accessible tools to students and researchers
   - retroengineering
+  - Futures-gazing
   - understanding how stuff work
   - learning - big fan of MOOCs too =)
-- 📫 How to reach me: ...
 
 
 📈 **My GitHub Stats:**
