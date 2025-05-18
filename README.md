@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- 😄 I'm LJ, aka Kelu Ghosh or @kelu124. On a sabbatical in 2024 - stats (hopefully) to reflect this ;)
+- 😄 I'm LJ, aka Kelu Ghosh or @kelu124. ;)
   
 - 👯 I’m looking to collaborate on open projects, ai/llms, ultrasound stuff. You'll see my repos ;)
   - ⚡ Check more on my ultrasound pages: http://un0rick.cc/
