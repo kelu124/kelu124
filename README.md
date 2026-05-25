@@ -42,7 +42,13 @@
 - **[Futures](https://github.com/kelu124/Futures)** ⭐ 3 - Substack newsletter link management and analysis
 - **[ultrasound-patents](https://github.com/kelu124/ultrasound-patents)** ⭐ 3 - Mining and analysis of ultrasound technology patents
 
-#### Experiments with NanoClaw
+#### Experiments with 
+
+Claude 
+
+- [ESP32 MUD](https://github.com/kelu124/E32Mud) to play on a portal, nice HTML page, for a persisting world served on WIFI by the ESP32.
+
+NanoClaw
 
 - [OrmuzOsint](https://github.com/kelu124/OrmuzOsint) - OSINT toolkit for detecting dark vessels in the Strait of Hormuz using Sentinel-1 SAR and AIS fusion
 - [learn-bangla](https://github.com/kelu124/learn-bangla) - Bengali sentence dataset and interactive flashcard practice site
