@@ -42,6 +42,11 @@
 - **[Futures](https://github.com/kelu124/Futures)** ⭐ 3 - Substack newsletter link management and analysis
 - **[ultrasound-patents](https://github.com/kelu124/ultrasound-patents)** ⭐ 3 - Mining and analysis of ultrasound technology patents
 
+#### Experiments with NanoClaw
+
+• [OrmuzOsint](https://github.com/kelu124/OrmuzOsint) - OSINT toolkit for detecting dark vessels in the Strait of Hormuz using Sentinel-1 SAR and AIS fusion
+• [learn-bangla](https://github.com/kelu124/learn-bangla) - Bengali sentence dataset and interactive flashcard practice site
+• [Resume\_RDF\_update](https://github.com/kelu124/Resume_RDF_update)  - Convert CVs into structured RDF/OWL knowledge graphs using the ResumeRDF ontology
 
 #### Past devices
 
