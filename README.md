@@ -54,6 +54,8 @@ NanoClaw
 - [learn-bangla](https://github.com/kelu124/learn-bangla) - Bengali sentence dataset and interactive flashcard practice site
 - [Resume\_RDF\_update](https://github.com/kelu124/Resume_RDF_update)  - Convert CVs into structured RDF/OWL knowledge graphs using the ResumeRDF ontology
 
+All list at [Clawd](https://github.com/stars/kelu124/lists/clawd).
+
 #### Past devices
 
 - Past ultrasound-hardware related projects (not maintained anymore) are:
