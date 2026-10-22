@@ -99,10 +99,21 @@ Designs certified by the [Open Source Hardware Association](https://certificatio
 
 - **[awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs)** ⭐ 363 - Curated list of Lattice FPGA boards using open tools
 - **[lattice-verilog-projects](https://github.com/kelu124/lattice-verilog-projects)** - Knowledge base of 200+ reusable open gateware cores for ULX3S and other Lattice boards ([website](https://kelu124.github.io/lattice-verilog-projects/))
-- **[OrmuzOsint](https://github.com/kelu124/OrmuzOsint)** - Sentinel-1 SAR + AIS fusion to spot "dark" vessels in the Strait of Hormuz, all with free data
 - **[frugalai-challenge_pico](https://github.com/kelu124/frugalai-challenge_pico)** - TinyML inference on the RP2040 microcontroller
 - **[Futures](https://github.com/kelu124/Futures)** - Substack newsletter link management and analysis
 - **[ultrasound-patents](https://github.com/kelu124/ultrasound-patents)** - Mining and analysis of ultrasound technology patents
+
+**🤖 Experiments with Claude**
+
+- **[E32Mud](https://github.com/kelu124/E32Mud)** - An ESP32 MUD to play on a portal, nice HTML page, for a persisting world served on WiFi by the ESP32
+
+**🦞 Experiments with NanoClaw**
+
+- **[OrmuzOsint](https://github.com/kelu124/OrmuzOsint)** - OSINT toolkit for detecting dark vessels in the Strait of Hormuz using Sentinel-1 SAR and AIS fusion
+- **[learn-bangla](https://github.com/kelu124/learn-bangla)** - Bengali sentence dataset and interactive flashcard practice site
+- **[Resume_RDF_update](https://github.com/kelu124/Resume_RDF_update)** - Convert CVs into structured RDF/OWL knowledge graphs using the ResumeRDF ontology
+
+The whole list is at [Clawd](https://github.com/stars/kelu124/lists/clawd).
 
 ---
 
