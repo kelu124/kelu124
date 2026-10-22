@@ -20,6 +20,8 @@ Each run also appends star changes to `.claude/history/stars.csv`.
 
 ## 2. Apply — mechanical fixes (no need to ask)
 
+- `python3 .claude/scripts/oshwa_sync.py` — refreshes the OSHWA-certified table.
+
 - `python3 .claude/scripts/profile_audit.py --fix` — sets/updates/removes `⭐ N`
   badges per the ≥ 20 rule.
 - Fix links to repos that were renamed (follow the API's redirect / new name).

@@ -1,0 +1,55 @@
+{
+  "updated": "2026-10-22",
+  "source": "public directory",
+  "projects": {
+    "FR000005": {
+      "uid": "FR000005",
+      "name": "un0rick - ultrasound imaging development platform",
+      "date": "2018-03-07",
+      "hardware": "TAPR",
+      "repo": "https://github.com/kelu124/un0rick"
+    },
+    "FR000006": {
+      "uid": "FR000006",
+      "name": "lit3rick",
+      "date": "2019-01-13",
+      "hardware": "TAPR",
+      "repo": "https://github.com/kelu124/lit3rick"
+    },
+    "FR000014": {
+      "uid": "FR000014",
+      "name": "MAX14866 devkit",
+      "date": "2021-04-02",
+      "hardware": "CERN",
+      "repo": "https://github.com/kelu124/max14866"
+    },
+    "FR000015": {
+      "uid": "FR000015",
+      "name": "FT600-breakout",
+      "date": "2021-04-02",
+      "hardware": "CERN",
+      "repo": "https://github.com/kelu124/ft600"
+    },
+    "FR000016": {
+      "uid": "FR000016",
+      "name": "lit3-32 ultrasound board",
+      "date": "2021-04-02",
+      "hardware": "TAPR",
+      "repo": "https://github.com/kelu124/lit3rick/tree/lit3-32"
+    },
+    "FR000022": {
+      "uid": "FR000022",
+      "name": "daq0rick",
+      "date": "2024-10-11",
+      "hardware": "TAPR",
+      "repo": "https://github.com/kelu124/0xa5eded"
+    },
+    "FR000023": {
+      "uid": "FR000023",
+      "name": "pic0rick",
+      "date": "2024-10-21",
+      "hardware": "TAPR",
+      "repo": "https://github.com/kelu124/pic0rick/"
+    }
+  }
+}

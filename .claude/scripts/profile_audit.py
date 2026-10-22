@@ -90,10 +90,18 @@ def parse_date(s):
     return dt.datetime.fromisoformat(s.replace("Z", "+00:00"))
 
 
+OSHWA_BLOCK = re.compile(r"<!-- OSHWA:START -->.*?<!-- OSHWA:END -->", re.S)
+
+
+def outside_oshwa(text):
+    """README text minus the generated OSHWA table (managed by oshwa_sync.py)."""
+    return OSHWA_BLOCK.sub("", text)
+
+
 def star_issues(text, repos):
     """Return [(name, readme_stars_or_None, live_stars)] for entries breaking the badge rule."""
     issues = []
-    for m in ENTRY_RE.finditer(text):
+    for m in ENTRY_RE.finditer(outside_oshwa(text)):
         name, claimed = m.group(2), m.group(4)
         live = repos.get(name.lower())
         if not live:
@@ -113,7 +121,12 @@ def fix_badges(text, repos):
             return m.group(0)
         n = live["stargazers_count"]
         return f"{m.group(1)} ⭐ {n}" if n >= MIN_STARS else m.group(1)
-    return ENTRY_RE.sub(repl, text)
+    parts = OSHWA_BLOCK.split(text)
+    blocks = OSHWA_BLOCK.findall(text)
+    out = ENTRY_RE.sub(repl, parts[0])
+    for block, part in zip(blocks, parts[1:]):
+        out += block + ENTRY_RE.sub(repl, part)
+    return out
 
 
 def main():
@@ -155,7 +168,7 @@ def main():
     archived = sorted(n for n in linked if n in repos and repos[n]["archived"])
 
     # Plain (non-bold) links to repos popular enough to deserve an entry with a badge
-    bold = {m.group(2).lower() for m in ENTRY_RE.finditer(text)}
+    bold = {m.group(2).lower() for m in ENTRY_RE.finditer(outside_oshwa(text))}
     popular_plain = sorted((repos[n] for n in linked if n in repos and n not in bold
                             and repos[n]["stargazers_count"] >= MIN_STARS),
                            key=lambda r: -r["stargazers_count"])

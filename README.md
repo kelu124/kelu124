@@ -8,9 +8,7 @@
 [![Hackaday](https://img.shields.io/badge/-Hackaday-1a1a1a?style=flat-square&logo=hackaday&logoColor=white)](https://hackaday.io/kelu124)
 [![Substack](https://img.shields.io/badge/-Substack-ff6719?style=flat-square&logo=substack&logoColor=white)](https://substack.kghosh.me/)
 [![Website](https://img.shields.io/badge/-KGhosh.me-555?style=flat-square&logo=About.me&logoColor=white)](https://kghosh.me/)
-[![Slack](https://img.shields.io/badge/-usdevkit-4A154B?style=flat-square&logo=slack&logoColor=white)](https://join.slack.com/t/usdevkit/shared_invite/zt-2g501obl-z53YHyGOOMZjeCXuXzjZow)
-[![Patreon](https://img.shields.io/badge/-Patreon-f96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/kelu124)
-[![Ko-fi](https://img.shields.io/badge/-Ko--fi-29abe0?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/G2G81MT0G)
+[![Matrix chat](https://img.shields.io/badge/-%23un0rick--general-000000?style=flat-square&logo=matrix&logoColor=white)](https://app.element.io/#/room/#un0rick-general:matrix.org)
 
 </div>
 
@@ -76,6 +74,24 @@ Software for these: **[python-usb-un0rick](https://github.com/kelu124/python-usb
 
 - A [PIC32A](https://github.com/kelu124/pic32arick) ultrasound board ;)
 - A [rp2040/FT600 board](https://github.com/kelu124/oshmri/tree/main/hardware/13.FT600/v0.4)
+
+---
+
+### ✅ OSHWA-certified open hardware
+
+Designs certified by the [Open Source Hardware Association](https://certification.oshwa.org/):
+
+<!-- OSHWA:START -->
+| Project | OSHWA UID | Certified | Hardware licence |
+|---|---|---|---|
+| **[pic0rick](https://github.com/kelu124/pic0rick/)** | [FR000023](https://certification.oshwa.org/fr000023.html) | 2024-10-21 | TAPR |
+| **[daq0rick](https://github.com/kelu124/0xa5eded)** | [FR000022](https://certification.oshwa.org/fr000022.html) | 2024-10-11 | TAPR |
+| **[MAX14866 devkit](https://github.com/kelu124/max14866)** | [FR000014](https://certification.oshwa.org/fr000014.html) | 2021-04-02 | CERN |
+| **[FT600-breakout](https://github.com/kelu124/ft600)** | [FR000015](https://certification.oshwa.org/fr000015.html) | 2021-04-02 | CERN |
+| **[lit3-32 ultrasound board](https://github.com/kelu124/lit3rick/tree/lit3-32)** | [FR000016](https://certification.oshwa.org/fr000016.html) | 2021-04-02 | TAPR |
+| **[lit3rick](https://github.com/kelu124/lit3rick)** | [FR000006](https://certification.oshwa.org/fr000006.html) | 2019-01-13 | TAPR |
+| **[un0rick - ultrasound imaging development platform](https://github.com/kelu124/un0rick)** | [FR000005](https://certification.oshwa.org/fr000005.html) | 2018-03-07 | TAPR |
+<!-- OSHWA:END -->
 
 ---
 

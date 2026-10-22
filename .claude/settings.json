@@ -19,6 +19,12 @@
             "command": "cd \"$CLAUDE_PROJECT_DIR\" && python3 .claude/scripts/profile_audit.py --hook 2>/dev/null || true",
             "timeout": 30,
             "statusMessage": "Checking GitHub profile for new repos…"
+          },
+          {
+            "type": "command",
+            "command": "cd \"$CLAUDE_PROJECT_DIR\" && python3 .claude/scripts/oshwa_sync.py --hook 2>/dev/null || true",
+            "timeout": 60,
+            "statusMessage": "Syncing OSHWA certifications…"
           }
         ]
       }
