@@ -25,6 +25,12 @@
             "command": "cd \"$CLAUDE_PROJECT_DIR\" && python3 .claude/scripts/oshwa_sync.py --hook 2>/dev/null || true",
             "timeout": 60,
             "statusMessage": "Syncing OSHWA certifications…"
+          },
+          {
+            "type": "command",
+            "command": "cd \"$CLAUDE_PROJECT_DIR\" && python3 .claude/scripts/papers_sync.py --hook 2>/dev/null || true",
+            "timeout": 120,
+            "statusMessage": "Checking for new papers with DOIs…"
           }
         ]
       }

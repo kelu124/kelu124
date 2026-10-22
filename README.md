@@ -124,6 +124,39 @@ The whole list is at [Clawd](https://github.com/stars/kelu124/lists/clawd).
 
 ---
 
+### 📚 Papers & publications
+
+<!-- PAPERS:START -->
+**Papers, preprints & reports**
+
+- 2026 · **[Accelerating the Transition to Green Building Neighbourhoods: A New Decision Support Platform](https://doi.org/10.66408/abc2.2026.23)** · *ABC2: Journal of Architecture, Building, Construction, and Cities* · with 10 co-authors
+- 2026 · **[Placemaking Maptivity: A Serious Game to Facilitate Sustainable Urban Planning](https://doi.org/10.3390/su18157746)** · *Sustainability* · with 3 co-authors
+- 2024 · **[A rp2040-based ultrasound pulse-echo acquisition device](https://doi.org/10.5281/zenodo.10968503)** · *Zenodo*
+- 2024 · **[Interview: Ultrasound pulse-echo device](https://doi.org/10.59350/mxgjr-rb704)** · *Front Matter*
+- 2024 · **[Using Generative AI to accelerate Green Building Neighbourhoods assessments using the ISO 37100 series and LLMs.](https://doi.org/10.5281/zenodo.14216012)** · *Zenodo*
+- 2024 · **[Using Large Language Models for a standard assessment mapping for sustainable communities](https://doi.org/10.48550/arxiv.2411.00208)** · *arXiv*
+- 2022 · **[Review of Current Simple Ultrasound Hardware Considerations, Designs, and Processing Opportunities](https://doi.org/10.5334/joh.28)** · *Journal of Open Hardware* · with 4 co-authors
+- 2021 · **[An opensource max14866 development board](https://doi.org/10.5281/zenodo.5792251)** · *Zenodo*
+- 2021 · **[lit3rick: an up5k ultrasound pulse-echo device](https://doi.org/10.5281/zenodo.5792244)** · *Zenodo*
+- 2021 · **[pyusbus: opening usb ultrasound probes](https://doi.org/10.5281/zenodo.5792255)** · *Zenodo*
+- 2019 · **[un0rick : open-source fpga board for single element ultrasound imaging](https://doi.org/10.5281/zenodo.3364558)** · *Zenodo*
+- 2017 · **[Arduino-Like Development Kit for Single-Element Ultrasound Imaging](https://doi.org/10.5334/joh.2)** · *Journal of Open Hardware*
+
+<details>
+<summary><b>Software & datasets with a DOI</b> (6)</summary>
+
+- 2026 · **[Placemaking Maptivity: How-to-Play Pack](https://doi.org/10.5281/zenodo.20691228)** · *Zenodo* · with 3 co-authors
+- 2025 · **[GBN Health resilience Knowledge Graph (T3.5)](https://doi.org/10.5281/zenodo.15209674)** · *Zenodo*
+- 2025 · **[PROBONO Knowledge Assistant](https://doi.org/10.5281/zenodo.17856432)** · *Zenodo*
+- 2025 · **[Sustainable-City Use-Case Explorer](https://doi.org/10.5281/zenodo.17764006)** · *Zenodo*
+- 2025 · **[The Evaluation Assistant (EVA) - Social Innovation Analyser](https://doi.org/10.5281/zenodo.17468927)** · *Zenodo*
+- 2017 · **[Kelu124/Echomods: Stable Modules Set](https://doi.org/10.5281/zenodo.377054)** · *Zenodo*
+
+</details>
+<!-- PAPERS:END -->
+
+---
+
 ### 📈 Stats
 
 <p align="center">

@@ -1,0 +1,324 @@
+{
+  "updated": "2026-10-22",
+  "exclude": [
+    "10.48550/arxiv.1611.10174",
+    "10.5281/zenodo.15592221",
+    "10.5281/zenodo.15592222"
+  ],
+  "include": [
+    "10.59350/7dj56-1v995",
+    "10.59350/mxgjr-rb704"
+  ],
+  "works": {
+    "10.3390/su18157746": {
+      "doi": "10.3390/su18157746",
+      "title": "Placemaking Maptivity: A Serious Game to Facilitate Sustainable Urban Planning",
+      "type": "journal-article",
+      "venue": "Sustainability",
+      "year": 2026,
+      "authors": 4
+    },
+    "10.48550/arxiv.1611.10174": {
+      "doi": "10.48550/arxiv.1611.10174",
+      "title": "A low-cost, arduino-like dev-kit for single-element ultrasound imaging",
+      "type": "article-journal",
+      "venue": "arXiv",
+      "year": 2016,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.48550/arxiv.2411.00208": {
+      "doi": "10.48550/arxiv.2411.00208",
+      "title": "Using Large Language Models for a standard assessment mapping for sustainable communities",
+      "type": "article",
+      "venue": "arXiv",
+      "year": 2024,
+      "authors": 1,
+      "kind": "preprint"
+    },
+    "10.5281/zenodo.10968503": {
+      "doi": "10.5281/zenodo.10968503",
+      "title": "A rp2040-based ultrasound pulse-echo acquisition device",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2024,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.5281/zenodo.10968504": {
+      "doi": "10.5281/zenodo.10968504",
+      "title": "A rp2040-based ultrasound pulse-echo acquisition device",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2024,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.5281/zenodo.14216012": {
+      "doi": "10.5281/zenodo.14216012",
+      "title": "Using Generative AI to accelerate Green Building Neighbourhoods assessments using the ISO 37100 series and LLMs.",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2024,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.5281/zenodo.14216013": {
+      "doi": "10.5281/zenodo.14216013",
+      "title": "Using Generative AI to accelerate Green Building Neighbourhoods assessments using the ISO 37100 series and LLMs.",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2024,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.5281/zenodo.15209674": {
+      "doi": "10.5281/zenodo.15209674",
+      "title": "GBN Health resilience Knowledge Graph (T3.5)",
+      "type": "dataset",
+      "venue": "Zenodo",
+      "year": 2025,
+      "authors": 1,
+      "kind": "dataset"
+    },
+    "10.5281/zenodo.15209675": {
+      "doi": "10.5281/zenodo.15209675",
+      "title": "GBN Health resilience Knowledge Graph (T3.5)",
+      "type": "dataset",
+      "venue": "Zenodo",
+      "year": 2025,
+      "authors": 1,
+      "kind": "dataset"
+    },
+    "10.5281/zenodo.15592221": {
+      "doi": "10.5281/zenodo.15592221",
+      "title": "Placemaking Maptivity - a serious game to facilitate Green Building Neighbourhoods planning",
+      "type": "article",
+      "venue": "Zenodo",
+      "year": 2025,
+      "authors": 2,
+      "kind": "preprint"
+    },
+    "10.5281/zenodo.15592222": {
+      "doi": "10.5281/zenodo.15592222",
+      "title": "Placemaking Maptivity - a serious game to facilitate Green Building Neighbourhoods planning",
+      "type": "article",
+      "venue": "Zenodo",
+      "year": 2025,
+      "authors": 2,
+      "kind": "preprint"
+    },
+    "10.5281/zenodo.17468927": {
+      "doi": "10.5281/zenodo.17468927",
+      "title": "The Evaluation Assistant (EVA) - Social Innovation Analyser",
+      "type": "software",
+      "venue": "Zenodo",
+      "year": 2025,
+      "authors": 1,
+      "kind": "software"
+    },
+    "10.5281/zenodo.17468928": {
+      "doi": "10.5281/zenodo.17468928",
+      "title": "The Evaluation Assistant (EVA) - Social Innovation Analyser",
+      "type": "software",
+      "venue": "Zenodo",
+      "year": 2025,
+      "authors": 1,
+      "kind": "software"
+    },
+    "10.5281/zenodo.17763975": {
+      "doi": "10.5281/zenodo.17763975",
+      "title": "GBN Health resilience Knowledge Graph (T3.5)",
+      "type": "dataset",
+      "venue": "Zenodo",
+      "year": 2025,
+      "authors": 1,
+      "kind": "dataset"
+    },
+    "10.5281/zenodo.17764006": {
+      "doi": "10.5281/zenodo.17764006",
+      "title": "Sustainable-City Use-Case Explorer",
+      "type": "article",
+      "venue": "Zenodo",
+      "year": 2025,
+      "authors": 1,
+      "kind": "computationalnotebook"
+    },
+    "10.5281/zenodo.17764007": {
+      "doi": "10.5281/zenodo.17764007",
+      "title": "Sustainable-City Use-Case Explorer",
+      "type": "article",
+      "venue": "Zenodo",
+      "year": 2025,
+      "authors": 1,
+      "kind": "computationalnotebook"
+    },
+    "10.5281/zenodo.17856432": {
+      "doi": "10.5281/zenodo.17856432",
+      "title": "PROBONO Knowledge Assistant",
+      "type": "software",
+      "venue": "Zenodo",
+      "year": 2025,
+      "authors": 1,
+      "kind": "software"
+    },
+    "10.5281/zenodo.17856433": {
+      "doi": "10.5281/zenodo.17856433",
+      "title": "PROBONO Knowledge Assistant",
+      "type": "software",
+      "venue": "Zenodo",
+      "year": 2025,
+      "authors": 1,
+      "kind": "software"
+    },
+    "10.5281/zenodo.20691228": {
+      "doi": "10.5281/zenodo.20691228",
+      "title": "Placemaking Maptivity: How-to-Play Pack",
+      "type": "dataset",
+      "venue": "Zenodo",
+      "year": 2026,
+      "authors": 4,
+      "kind": "dataset"
+    },
+    "10.5281/zenodo.20691229": {
+      "doi": "10.5281/zenodo.20691229",
+      "title": "Placemaking Maptivity — How-to-Play Pack",
+      "type": "dataset",
+      "venue": "Zenodo",
+      "year": 2026,
+      "authors": 4,
+      "kind": "dataset"
+    },
+    "10.5281/zenodo.21384160": {
+      "doi": "10.5281/zenodo.21384160",
+      "title": "Placemaking Maptivity: How-to-Play Pack",
+      "type": "dataset",
+      "venue": "Zenodo",
+      "year": 2026,
+      "authors": 4,
+      "kind": "dataset"
+    },
+    "10.5281/zenodo.3364558": {
+      "doi": "10.5281/zenodo.3364558",
+      "title": "un0rick : open-source fpga board for single element ultrasound imaging",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2019,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.5281/zenodo.3364559": {
+      "doi": "10.5281/zenodo.3364559",
+      "title": "un0rick : open-source fpga board for single element ultrasound imaging",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2019,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.5281/zenodo.377054": {
+      "doi": "10.5281/zenodo.377054",
+      "title": "Kelu124/Echomods: Stable Modules Set",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2017,
+      "authors": 1,
+      "kind": "software",
+      "kind_manual": true
+    },
+    "10.5281/zenodo.5792244": {
+      "doi": "10.5281/zenodo.5792244",
+      "title": "lit3rick: an up5k ultrasound pulse-echo device",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2021,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.5281/zenodo.5792245": {
+      "doi": "10.5281/zenodo.5792245",
+      "title": "lit3rick: an up5k ultrasound pulse-echo device",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2021,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.5281/zenodo.5792251": {
+      "doi": "10.5281/zenodo.5792251",
+      "title": "An opensource max14866 development board",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2021,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.5281/zenodo.5792252": {
+      "doi": "10.5281/zenodo.5792252",
+      "title": "An opensource max14866 development board",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2021,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.5281/zenodo.5792255": {
+      "doi": "10.5281/zenodo.5792255",
+      "title": "pyusbus: opening usb ultrasound probes",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2021,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.5281/zenodo.5792256": {
+      "doi": "10.5281/zenodo.5792256",
+      "title": "pyusbus: opening usb ultrasound probes",
+      "type": "article-journal",
+      "venue": "Zenodo",
+      "year": 2021,
+      "authors": 1,
+      "kind": "text"
+    },
+    "10.5334/joh.2": {
+      "doi": "10.5334/joh.2",
+      "title": "Arduino-Like Development Kit for Single-Element Ultrasound Imaging",
+      "type": "journal-article",
+      "venue": "Journal of Open Hardware",
+      "year": 2017,
+      "authors": 1
+    },
+    "10.5334/joh.28": {
+      "doi": "10.5334/joh.28",
+      "title": "Review of Current Simple Ultrasound Hardware Considerations, Designs, and Processing Opportunities",
+      "type": "journal-article",
+      "venue": "Journal of Open Hardware",
+      "year": 2022,
+      "authors": 5
+    },
+    "10.59350/7dj56-1v995": {
+      "doi": "10.59350/7dj56-1v995",
+      "title": "Interview: Ultrasound pulse-echo device",
+      "type": "posted-content",
+      "venue": "Front Matter",
+      "year": 2024,
+      "authors": 1
+    },
+    "10.59350/mxgjr-rb704": {
+      "doi": "10.59350/mxgjr-rb704",
+      "title": "Interview: Ultrasound pulse-echo device",
+      "type": "posted-content",
+      "venue": "Front Matter",
+      "year": 2024,
+      "authors": 1
+    },
+    "10.66408/abc2.2026.23": {
+      "doi": "10.66408/abc2.2026.23",
+      "title": "Accelerating the Transition to Green Building Neighbourhoods: A New Decision Support Platform",
+      "type": "journal-article",
+      "venue": "ABC2: Journal of Architecture, Building, Construction, and Cities",
+      "year": 2026,
+      "authors": 11
+    }
+  }
+}

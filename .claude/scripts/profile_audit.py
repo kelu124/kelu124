@@ -90,11 +90,11 @@ def parse_date(s):
     return dt.datetime.fromisoformat(s.replace("Z", "+00:00"))
 
 
-OSHWA_BLOCK = re.compile(r"<!-- OSHWA:START -->.*?<!-- OSHWA:END -->", re.S)
+OSHWA_BLOCK = re.compile(r"<!-- (?:OSHWA|PAPERS):START -->.*?<!-- (?:OSHWA|PAPERS):END -->", re.S)
 
 
 def outside_oshwa(text):
-    """README text minus the generated OSHWA table (managed by oshwa_sync.py)."""
+    """README text minus the generated OSHWA table and papers list (managed by their sync scripts)."""
     return OSHWA_BLOCK.sub("", text)
 
 
