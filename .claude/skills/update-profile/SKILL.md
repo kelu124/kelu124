@@ -1,9 +1,15 @@
 ---
 name: update-profile
-description: Refresh the kelu124 GitHub profile README — update star counts, surface new/recently active repos, flag dead or archived links, and propose wording changes. Use when asked to update, refresh, audit or tidy the GitHub profile / README in the kelu124/kelu124 repo.
+description: Refresh the kelu124 GitHub profile README — update star counts, surface new/recently active repos, sync the OSHWA-certified table and the papers list, flag dead or archived links, and propose wording changes. Use when asked to update, refresh, audit or tidy the GitHub profile / README in the kelu124/kelu124 repo.
 ---
 
 # Update the GitHub profile README
+
+## 0. Sync with GitHub first
+
+The owner also edits README.md directly on github.com. Always `git fetch origin` and
+merge `origin/main` before editing; when their edits land in an old spot, keep their
+content but move it into the current layout (see CLAUDE.md).
 
 ## 1. Audit
 
@@ -22,7 +28,9 @@ Each run also appends star changes to `.claude/history/stars.csv`.
 
 - `python3 .claude/scripts/oshwa_sync.py` — refreshes the OSHWA-certified table.
 - `python3 .claude/scripts/papers_sync.py` — refreshes the papers & publications list.
-
+  Wrong/duplicate entry → add its DOI to `exclude` in `.claude/history/papers.json`;
+  a work found elsewhere (e.g. Google Scholar, checked by hand) → add it to `include`;
+  wrong section → set `"kind"` + `"kind_manual": true` on the work.
 - `python3 .claude/scripts/profile_audit.py --fix` — sets/updates/removes `⭐ N`
   badges per the ≥ 20 rule.
 - Fix links to repos that were renamed (follow the API's redirect / new name).
@@ -39,7 +47,9 @@ description; let the user pick which ones go in. Rough mapping:
 | FPGA, AI/ML, OSINT, data analysis, curated lists | Experimental, FPGA & AI         |
 | superseded hardware                          | Past devices table (collapsible)    |
 | planned / early-stage hardware               | Backlog                             |
-| games, sims, side fun (pikl, 5mins, FIFA…)   | probably skip, or a short "Fun" line — ask |
+| AI-agent experiments (Claude, NanoClaw)      | Experimental → "Experiments with Claude / NanoClaw" |
+| polished games & toys (barcodebattler, pikl) | Fun                                 |
+| quick sims / one-offs (5mins, FIFA2026…)     | usually skipped — ask               |
 
 Also propose moving things that went quiet (no push in >1 year) toward
 "Past devices", and archived repos out of active sections.
@@ -49,7 +59,7 @@ rather than relying on the one-line description alone.
 ## 4. Verify & commit
 
 - Check the badges and stats images still render (URLs return 200).
-- Show the user `git diff README.md` before committing; include
-  `.claude/history/stars.csv` in the commit.
+- Show the user `git diff README.md` before committing; include the
+  `.claude/history/` files (stars.csv, oshwa.json, papers.json) in the commit.
 - Commit message: `autoupdate` for star/link-only refreshes, a descriptive
-  message otherwise. Only push when the user asks.
+  message otherwise. Push when the user asks (they usually say "commit and push").
