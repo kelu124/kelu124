@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 .claude/scripts/profile_audit.py:*)",
+      "Bash(curl -s https://api.github.com/*)",
+      "Bash(curl -s https://raw.githubusercontent.com/kelu124/*)",
+      "Bash(git diff:*)",
+      "Bash(git status:*)",
+      "Bash(git log:*)"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"$CLAUDE_PROJECT_DIR\" && python3 .claude/scripts/profile_audit.py --hook 2>/dev/null || true",
+            "timeout": 30,
+            "statusMessage": "Checking GitHub profile for new repos…"
+          }
+        ]
+      }
+    ]
+  }
+}
