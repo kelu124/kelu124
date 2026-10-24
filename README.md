@@ -41,6 +41,7 @@
 **In the works**
 
 - **[ultr4rick](https://github.com/kelu124/ultr4rick)** - The higher-power successor to pic0rick: RP2350B, 60 MS/s ADC, bipolar HV pulser, 8-channel HV mux, on-board envelope detection
+- **[rp569](https://github.com/kelu124/rp569)** - An RP2350B paired with a WCH CH569W to stream high-speed acquisitions to the host over USB 3.0 (v1.0 routed, JLCPCB files ready, firmware untested on hardware)
 - **[minus](https://github.com/kelu124/minus)** - A minimal, single-channel, low-cost pulse-echo platform, designed as a conference-workshop badge (early design)
 - **[wulrick](https://github.com/kelu124/wulrick)** - Side-by-side technical comparison of pic0rick and ETH Zurich's WULPUS wearable probe
 
