@@ -1,0 +1,24 @@
+# 2026tarot — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "2026tarot"
+url = "https://github.com/kelu124/2026tarot"
+description = "Peeking into the future"
+homepage = "http://2025.kghosh.me/"
+license = ""
+language = "Jupyter Notebook"
+topics = ["foresight"]
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2025-12-29"
+pushed = "2025-12-29"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "web"
+summary = "Signals from Tomorrow: a serendipity engine for foresight practitioners that deals a random hand of weak signals, behavioural shifts, rising concerns, issues in motion and technology waves, drawn from the links curated in the Curious Futures newsletter."
+keywords = ["foresight", "weak signals", "scenario planning", "serendipity", "newsletter"]
+tags = []
+curated = true

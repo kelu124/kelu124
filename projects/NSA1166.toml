@@ -1,0 +1,24 @@
+# NSA1166 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "NSA1166"
+url = "https://github.com/kelu124/NSA1166"
+description = "A breakout with SPI and I2C bus accessible to a NSA1166."
+homepage = ""
+license = ""
+language = "Shell"
+topics = []
+stars = 0
+forks = 1
+watchers = 0
+open_issues = 0
+created = "2019-08-11"
+pushed = "2019-08-11"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A pHAT breakout for the NSA1166 pressure sensor conditioner, with both its SPI and I2C buses accessible from the Pi."
+keywords = ["nsa1166", "phat", "spi", "i2c", "sensor"]
+tags = ["raspberry-pi", "nsa1166"]
+curated = true

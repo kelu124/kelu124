@@ -1,0 +1,24 @@
+# 5mins — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "5mins"
+url = "https://github.com/kelu124/5mins"
+description = "Bus stop waiting time simulation — the inspection paradox"
+homepage = ""
+license = ""
+language = "HTML"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2026-07-20"
+pushed = "2026-07-20"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "fun"
+summary = "A bus stop waiting time simulation illustrating the inspection paradox: why you always seem to wait longer than the average interval."
+keywords = ["inspection paradox", "simulation", "probability", "bus"]
+tags = []
+curated = true

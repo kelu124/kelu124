@@ -12,8 +12,9 @@ https://github.com/kelu124. Claude's job here is to keep it reasonably up to dat
   set `GITHUB_TOKEN` if the 60 req/h anonymous limit bites. `gh` is not installed.
 - `.claude/history/stars.csv` — star history (`date,repo,stars,delta`), appended by
   every audit run, only for repos whose count changed. Commit it with README updates.
-- `.claude/settings.json` — SessionStart hooks run the audit, the OSHWA sync and the papers sync at startup;
-  if they print anything, tell the user (offer the `update-profile` skill / a commit).
+- `.claude/settings.json` — SessionStart hooks run the audit, the OSHWA sync, the papers sync
+  and the (monthly) projects catalogue sync at startup; if they print anything, tell the
+  user (offer the `update-profile` / `curate-projects` skill / a commit).
 - `.claude/scripts/oshwa_sync.py` — rewrites the OSHWA-certified table between
   `<!-- OSHWA:START -->` / `<!-- OSHWA:END -->` (designs by Luc Jonveaux / kelu124).
   Uses the OSHWA API if a token is in `$OSHWA_TOKEN` or `.claude/oshwa_token` (gitignored),
@@ -27,7 +28,18 @@ https://github.com/kelu124. Claude's job here is to keep it reasonably up to dat
   bots, so it's not in the hook: cross-check it by hand now and then and add missing DOIs to
   `include`. Last check 2026-10-22: all DOI works covered; the Vanderbilt 2017 report has no DOI;
   the "Materials and Acoustics Handbook" there is a Scholar misattribution (not Luc's).
+- `projects/` — the projects catalogue: one `<repo>.toml` per original public repo
+  (GitHub-managed fields first, then hand-curated `category`, `summary`, `keywords`,
+  `tags`, `curated`), `forks.toml` for the forks, and a generated `README.md`.
+  `.claude/scripts/projects_sync.py` refreshes the managed fields, seeds files for new
+  repos (`curated = false`) and rebuilds the README via `.claude/scripts/projects_readme.py`.
+  The SessionStart hook runs it only when `.claude/history/projects_sync.json` says the
+  last sync is ≥ 30 days old (`--force` to override). `tags` = chips / platforms / EDA
+  tools only (rp2040, rp2350, ch569, pic32, ecp5, up5k, hx4k, hx8k, ice40, esp32, attiny,
+  raspberry-pi, kicad, altium…); domain words go in `keywords`; `topics` are GitHub's.
+  Curating a new entry = the `curate-projects` skill.
 - `.claude/skills/update-profile/` — the refresh workflow.
+- `.claude/skills/curate-projects/` — writing summaries/keywords/tags for new catalogue entries.
 
 ## README conventions
 

@@ -1,0 +1,24 @@
+# wp2_bot — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "wp2_bot"
+url = "https://github.com/kelu124/wp2_bot"
+description = "a Streamlit-powered assistant that uses GPT to auto-evaluate social and behavioural innovation projects through a structured framework, helping humans speed up the assessment process"
+homepage = ""
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2024-06-03"
+pushed = "2025-10-27"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ai"
+summary = "EVA, the Evaluation Assistant: a Streamlit app using GPT to help evaluators assess social and behavioural innovation projects against a structured framework, faster and more consistently. A prototype from a European project."
+keywords = ["evaluation", "social innovation", "gpt", "streamlit", "assistant"]
+tags = []
+curated = true

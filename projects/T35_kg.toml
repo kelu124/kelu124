@@ -1,0 +1,24 @@
+# T35_kg — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "T35_kg"
+url = "https://github.com/kelu124/T35_kg"
+description = "Light version of the Risk compendium of T3.5"
+homepage = ""
+license = ""
+language = "Jupyter Notebook"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2024-10-24"
+pushed = "2025-10-05"
+archived = true
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ai"
+summary = "Building a knowledge graph from the literature on health resilience in green building neighbourhoods (PROBONO task 3.5): GROBID to parse PDFs, Owlready2 for the RDF, embeddings and LLMs to consolidate risks, stakeholders and mitigations. Light version of the risk compendium."
+keywords = ["knowledge graph", "literature review", "grobid", "rdf", "llm", "probono"]
+tags = []
+curated = true

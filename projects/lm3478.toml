@@ -1,0 +1,24 @@
+# lm3478 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "lm3478"
+url = "https://github.com/kelu124/lm3478"
+description = "A small board to generate ultrasound-friendly +-90V"
+homepage = ""
+license = "MIT"
+language = "Shell"
+topics = []
+stars = 1
+forks = 1
+watchers = 1
+open_issues = 0
+created = "2020-10-03"
+pushed = "2020-10-03"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A small board around the LM3478 to generate an ultrasound-friendly +-90V for pulsers. Open source hardware, MIT."
+keywords = ["high voltage", "+-90v", "pulser supply", "boost"]
+tags = ["lm3478"]
+curated = true

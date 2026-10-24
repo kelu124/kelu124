@@ -1,0 +1,24 @@
+# TowerHill — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "TowerHill"
+url = "https://github.com/kelu124/TowerHill"
+description = "TowerHill"
+homepage = ""
+license = ""
+language = ""
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2026-10-24"
+pushed = "2026-10-24"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "other"
+summary = "Brand new (2026-10-24) and empty for now. To be described once something lands in it."
+keywords = ["new"]
+tags = []
+curated = true

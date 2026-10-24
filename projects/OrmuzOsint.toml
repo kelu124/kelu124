@@ -1,0 +1,24 @@
+# OrmuzOsint — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "OrmuzOsint"
+url = "https://github.com/kelu124/OrmuzOsint"
+description = "Sentinel-1 SAR + AIS fusion toolkit for dark-vessel detection over the Strait of Hormuz"
+homepage = ""
+license = ""
+language = "Python"
+topics = []
+stars = 3
+forks = 0
+watchers = 3
+open_issues = 0
+created = "2026-05-24"
+pushed = "2026-05-31"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "data"
+summary = "Sentinel-1 SAR + AIS fusion toolkit for dark-vessel detection over the Strait of Hormuz (or any bounding box): download the latest SAR scenes, render them as false-colour images where ships pop as bright targets, and collect AIS broadcasts in parallel to spot the boats that radar sees but AIS does not. Free data sources only."
+keywords = ["osint", "sar", "sentinel-1", "ais", "dark vessels", "maritime", "hormuz"]
+tags = []
+curated = true

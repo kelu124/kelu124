@@ -1,0 +1,24 @@
+# att_rf04e — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "att_rf04e"
+url = "https://github.com/kelu124/att_rf04e"
+description = "Attiny + n24rf04e"
+homepage = ""
+license = ""
+language = "Shell"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2021-05-29"
+pushed = "2021-06-25"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "An ATtiny paired with an N24RF04E dynamic NFC tag: scripts and notes to read and write the tag over I2C."
+keywords = ["nfc", "n24rf04e", "i2c", "attiny"]
+tags = ["attiny"]
+curated = true

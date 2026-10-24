@@ -1,0 +1,24 @@
+# lattice-verilog-projects — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "lattice-verilog-projects"
+url = "https://github.com/kelu124/lattice-verilog-projects"
+description = "Knowledge base of open gateware for lattice"
+homepage = "https://kelu124.github.io/lattice-verilog-projects/"
+license = ""
+language = "Python"
+topics = ["fpga", "lattice", "verilog", "yosys"]
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2026-09-27"
+pushed = "2026-09-29"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "fpga"
+summary = "A knowledge base of open gateware for the ULX3S and other small Lattice boards (ECP5, iCE40 UP5K, HX8K/HX4K): which projects exist, what each core does, FPGA and toolchain targeted, license, testbenches, and which blocks can be lifted into a new design. 218 reusable cores in 34 functions, published as a GitHub Pages site and maintained with Claude Code."
+keywords = ["gateware", "knowledge base", "ulx3s", "reusable cores", "verilog", "prior art", "claude code"]
+tags = ["ecp5", "up5k", "hx8k", "hx4k", "fpga"]
+curated = true

@@ -1,0 +1,24 @@
+# esp32-mud — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "esp32-mud"
+url = "https://github.com/kelu124/esp32-mud"
+description = ""
+homepage = ""
+license = ""
+language = "Python"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 1
+created = "2024-05-29"
+pushed = "2024-07-04"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "fun"
+summary = "The earliest notes for the ESP32 MUD: just the esptool commands to flash MicroPython on an ESP32-C3. See E32Mud for the real thing."
+keywords = ["esp32-c3", "micropython", "esptool", "notes"]
+tags = ["esp32", "micropython"]
+curated = true

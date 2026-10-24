@@ -1,0 +1,24 @@
+# NFTs — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "NFTs"
+url = "https://github.com/kelu124/NFTs"
+description = ""
+homepage = ""
+license = ""
+language = ""
+topics = []
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2021-03-07"
+pushed = "2021-03-07"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "other"
+summary = "A 2021 reading list on NFTs and the marketplaces of the time (SuperRare, Nifty Gateway, Zora, Foundation, Rarible...). Curiosity, not a project."
+keywords = ["nft", "reading list", "2021"]
+tags = []
+curated = true

@@ -1,0 +1,24 @@
+# hvpppn — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "hvpppn"
+url = "https://github.com/kelu124/hvpppn"
+description = "High voltage board - positive and negative voltage, for ultrasound pulser."
+homepage = ""
+license = ""
+language = "HTML"
+topics = ["high-voltage", "ndt", "ultrasound", "ultrasound-imaging"]
+stars = 5
+forks = 2
+watchers = 5
+open_issues = 0
+created = "2019-08-11"
+pushed = "2019-09-22"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A small high-voltage supply delivering both a positive and a negative rail for bipolar ultrasound pulsers, based on the MAX1846 and HV9150."
+keywords = ["high voltage", "bipolar", "pulser supply", "max1846", "hv9150"]
+tags = ["hv9150"]
+curated = true

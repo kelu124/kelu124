@@ -1,0 +1,24 @@
+# opencities — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "opencities"
+url = "https://github.com/kelu124/opencities"
+description = ""
+homepage = ""
+license = ""
+language = "Python"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2020-10-27"
+pushed = "2020-11-06"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "data"
+summary = "Python scripts around open city data, from 2020. No README."
+keywords = ["open data", "cities", "2020"]
+tags = []
+curated = true

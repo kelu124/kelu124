@@ -1,0 +1,24 @@
+# echommunity — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "echommunity"
+url = "https://github.com/kelu124/echommunity"
+description = "Mapping the community echosystem"
+homepage = "https://kelu124.github.io/echommunity/"
+license = ""
+language = "Python"
+topics = []
+stars = 0
+forks = 4
+watchers = 0
+open_issues = 2
+created = "2016-12-12"
+pushed = "2017-08-11"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-research"
+summary = "Mapping the echOpen community: bots crawling Slack and GitHub, a neo4j graph of people, skills and channels, and recommendations of who to connect with. 2016-2017."
+keywords = ["echopen", "community", "slack bot", "neo4j", "graph"]
+tags = []
+curated = true

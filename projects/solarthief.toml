@@ -1,0 +1,24 @@
+# solarthief — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "solarthief"
+url = "https://github.com/kelu124/solarthief"
+description = ""
+homepage = ""
+license = ""
+language = ""
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2023-01-14"
+pushed = "2023-01-14"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "Notes on scavenging cheap solar garden lamps (QX5252F / YX8018 boost ICs, BPW34 photodiodes) for tiny energy-harvesting circuits."
+keywords = ["solar", "energy harvesting", "qx5252", "yx8018", "notes"]
+tags = []
+curated = true

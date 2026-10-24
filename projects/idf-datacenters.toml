@@ -1,0 +1,24 @@
+# idf-datacenters — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "idf-datacenters"
+url = "https://github.com/kelu124/idf-datacenters"
+description = "Île-de-France datacenter opportunity analysis"
+homepage = ""
+license = ""
+language = "Python"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2026-05-29"
+pushed = "2026-06-08"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "data"
+summary = "Mapping the Ile-de-France transmission grid to find the best substations for a 20-500 MW datacenter: open data from RTE, Enedis, OSM and Georisques ICPE, combined with a PyPSA linear optimal power flow model to score and rank sites."
+keywords = ["datacenters", "power grid", "rte", "pypsa", "lopf", "site selection", "open data"]
+tags = []
+curated = true

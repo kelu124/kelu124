@@ -1,0 +1,24 @@
+# Futures — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "Futures"
+url = "https://github.com/kelu124/Futures"
+description = "Managing links shared on my substack"
+homepage = "https://futures.kghosh.me/"
+license = ""
+language = "Jupyter Notebook"
+topics = ["osint", "scraping", "substack", "substack-toolkit"]
+stars = 3
+forks = 1
+watchers = 3
+open_issues = 0
+created = "2022-10-08"
+pushed = "2026-08-23"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "data"
+summary = "Tooling behind the Curious Futures substack: scraping and managing the links shared in the newsletter, so they can be classified, searched and reused (see 2026tarot)."
+keywords = ["substack", "newsletter", "link management", "scraping", "foresight", "osint"]
+tags = []
+curated = true

@@ -1,0 +1,24 @@
+# oshmri — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "oshmri"
+url = "https://github.com/kelu124/oshmri"
+description = "OpenSourceHardware - going to MRI"
+homepage = ""
+license = ""
+language = "Jupyter Notebook"
+topics = []
+stars = 2
+forks = 1
+watchers = 2
+open_issues = 0
+created = "2020-12-24"
+pushed = "2025-01-19"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "Notes and notebooks on open source hardware going towards MRI (gradients, low-field experiments), the thread that led to the DAC2932 board. Mostly a placeholder for now."
+keywords = ["open mri", "low field", "gradients", "notes"]
+tags = []
+curated = true

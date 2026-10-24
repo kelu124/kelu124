@@ -1,0 +1,24 @@
+# 8x8_mapper — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "8x8_mapper"
+url = "https://github.com/kelu124/8x8_mapper"
+description = "Extracting 8x8 sprites from sprite sheets"
+homepage = ""
+license = ""
+language = "Jupyter Notebook"
+topics = ["8x8", "pixelart"]
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2024-11-30"
+pushed = "2026-10-11"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "fun"
+summary = "Notebooks to extract 8x8 sprites from sprite sheets for pixel-art projects."
+keywords = ["pixel art", "sprites", "image processing"]
+tags = []
+curated = true

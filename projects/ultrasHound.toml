@@ -1,0 +1,24 @@
+# ultrasHound — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "ultrasHound"
+url = "https://github.com/kelu124/ultrasHound"
+description = "Playing with (real?) audio beacon and xtracking devices "
+homepage = "https://hackaday.io/project/25095-ushound"
+license = "MIT"
+language = "Jupyter Notebook"
+topics = []
+stars = 12
+forks = 3
+watchers = 12
+open_issues = 0
+created = "2016-11-04"
+pushed = "2018-11-04"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "fun"
+summary = "A tracker of trackers: an Arduino + electret + tiny screen that listens for the 18-20 kHz ultrasound beacons used by cross-device advertising (SilverPush, Lisnr and friends), isolates them with an FFT and tells you when you are being spied on. Could even spoof them back."
+keywords = ["ultrasound beacons", "privacy", "cross-device tracking", "fft", "electret", "hackaday"]
+tags = ["arduino"]
+curated = true

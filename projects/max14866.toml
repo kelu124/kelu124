@@ -1,0 +1,24 @@
+# max14866 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "max14866"
+url = "https://github.com/kelu124/max14866"
+description = "Breakout of max14866, ultrasound high voltage 16-switches"
+homepage = "http://un0rick.cc"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+topics = ["altium", "gerber", "hardware", "hv", "max14866", "mux", "muxes", "switches", "ultrasound"]
+stars = 3
+forks = 1
+watchers = 3
+open_issues = 0
+created = "2021-02-14"
+pushed = "2022-01-01"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A breakout of the MAX14866, a 16-channel high-voltage switch for ultrasound, tested with the pulse-echo boards on a phantom with 5 piezos in TX/RX pairs. OSHWA certified, CERN-OHL-S v2, Altium sources."
+keywords = ["hv mux", "16 switches", "multiplexer", "breakout", "oshwa certified", "cern-ohl-s", "phantom"]
+tags = ["max14866", "altium"]
+curated = true

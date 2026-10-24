@@ -1,0 +1,24 @@
+# ADC08200-PMOD — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "ADC08200-PMOD"
+url = "https://github.com/kelu124/ADC08200-PMOD"
+description = "An ADC08200 PMOD"
+homepage = ""
+license = ""
+language = "HTML"
+topics = ["adc", "adc08200", "analog-to-digital-converter", "pmod"]
+stars = 3
+forks = 1
+watchers = 3
+open_issues = 0
+created = "2020-10-30"
+pushed = "2020-10-30"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A PMOD carrying an ADC08200 (8-bit, up to 200 Msps) to test high speed ADCs easily on any FPGA board. Schematics and BOM, TAPR licensed."
+keywords = ["adc", "pmod", "high speed", "8 bits", "tapr"]
+tags = ["adc08200"]
+curated = true

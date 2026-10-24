@@ -1,0 +1,24 @@
+# iso37101_bot — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "iso37101_bot"
+url = "https://github.com/kelu124/iso37101_bot"
+description = "The actual bot for ISO37101 mapping"
+homepage = ""
+license = ""
+language = "Jupyter Notebook"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2025-05-05"
+pushed = "2025-11-22"
+archived = true
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ai"
+summary = "Using large language models to map urban initiatives onto the ISO 37101 framework (six purposes x twelve issues): review source content, produce Excel files for human review, visualise the grid and find initiatives matching requirements. Code and data behind the published article."
+keywords = ["iso 37101", "llm", "sustainability assessment", "urban planning", "streamlit", "paper"]
+tags = []
+curated = true

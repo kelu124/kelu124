@@ -1,0 +1,24 @@
+# openultrasoundprojects — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "openultrasoundprojects"
+url = "https://github.com/kelu124/openultrasoundprojects"
+description = "Curated list of open source projects"
+homepage = "https://kelu124.github.io/openultrasoundprojects/"
+license = ""
+language = "Python"
+topics = []
+stars = 28
+forks = 6
+watchers = 28
+open_issues = 0
+created = "2018-01-14"
+pushed = "2024-03-08"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-research"
+summary = "A curated list of open source ultrasound projects, whatever the use of ultrasound: imaging toolkits (USTK, echOpen, Columbia), bat recorders, beacon detectors, and so on. Fork, edit OSProjects.md, push it back."
+keywords = ["curated list", "open source", "ultrasound", "community", "echopen", "ustk"]
+tags = []
+curated = true

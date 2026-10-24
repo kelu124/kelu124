@@ -1,0 +1,24 @@
+# Analog_Frontend — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "Analog_Frontend"
+url = "https://github.com/kelu124/Analog_Frontend"
+description = "An analog circuit that consists of a transmitter and receiver for an ultrasound system."
+homepage = ""
+license = ""
+language = "HTML"
+topics = []
+stars = 4
+forks = 3
+watchers = 4
+open_issues = 0
+created = "2018-05-01"
+pushed = "2018-03-14"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-hardware"
+summary = "KiCad design files for the analog circuitry of one channel of an ultrasound imaging system (transmitter + receiver), with an AD8331-based VGA subcircuit and several transmitter variants (single transistor, push-pull MOSFETs, MD1213 + TC6320). Designed by William Meng, Cindy Xiao and Ruoyu Sheng; mirrored here."
+keywords = ["analog front end", "transmitter", "receiver", "ad8331", "md1213", "kicad", "single channel"]
+tags = ["kicad"]
+curated = true

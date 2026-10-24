@@ -1,0 +1,24 @@
+# HV9150DevKit — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "HV9150DevKit"
+url = "https://github.com/kelu124/HV9150DevKit"
+description = "A devboard for the HV9150."
+homepage = ""
+license = "NOASSERTION"
+language = ""
+topics = ["high-voltage", "ultrasound", "ultrasound-imaging"]
+stars = 7
+forks = 2
+watchers = 7
+open_issues = 0
+created = "2019-04-15"
+pushed = "2019-04-15"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A dev kit around the HV9150 to generate anything from 0 to 250V, for ultrasound pulsers among other things. Schematics, ODB++ and zip, designed by Jorge Arija with kelu124's support, TAPR licensed."
+keywords = ["high voltage", "250v", "hv9150", "pulser supply", "devkit", "tapr"]
+tags = ["hv9150"]
+curated = true

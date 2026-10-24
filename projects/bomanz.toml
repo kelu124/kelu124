@@ -1,0 +1,24 @@
+# bomanz — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "bomanz"
+url = "https://github.com/kelu124/bomanz"
+description = "High-speed pHAT"
+homepage = ""
+license = ""
+language = "Jupyter Notebook"
+topics = []
+stars = 22
+forks = 9
+watchers = 22
+open_issues = 0
+created = "2017-03-20"
+pushed = "2021-06-19"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A high-speed ADC pHAT for the Raspberry Pi, because the existing ADC hats were too slow: three generations, from a 6-bit CA3306 on DIP parts to an ADC08200 at 12 Msps and finally a 24 Msps pHAT. First SMD adventure, TAPR licensed, part of the echOmods family."
+keywords = ["adc", "phat", "high speed", "24msps", "ca3306", "adc08200", "tapr"]
+tags = ["raspberry-pi", "adc08200"]
+curated = true

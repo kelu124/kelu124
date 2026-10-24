@@ -1,0 +1,24 @@
+# AD8332-devboard — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "AD8332-devboard"
+url = "https://github.com/kelu124/AD8332-devboard"
+description = "An AD8332 devkit"
+homepage = ""
+license = "NOASSERTION"
+language = ""
+topics = ["100db", "ad8332", "amplifier", "hardware", "open", "openhardware", "opensource", "rf", "tgc", "ultrasound", "vga"]
+stars = 10
+forks = 0
+watchers = 10
+open_issues = 0
+created = "2020-12-24"
+pushed = "2021-05-02"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A devboard for the AD8332 dual variable gain amplifier (100 dB range) with easily swappable input and 20 MHz output filters, made with Jorge Arija. CERN-OHL-S v2, and handy to test TGC chains for ultrasound front ends."
+keywords = ["vga", "variable gain amplifier", "tgc", "100db", "rf", "cern-ohl-s", "devboard"]
+tags = ["ad8332"]
+curated = true

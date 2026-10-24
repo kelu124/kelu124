@@ -1,0 +1,24 @@
+# PMOD_rp2040 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "PMOD_rp2040"
+url = "https://github.com/kelu124/PMOD_rp2040"
+description = "Modules for signal acquisition and transmission - using the PMOD standard"
+homepage = "https://un0rick.cc/goodies/pmods"
+license = "NOASSERTION"
+language = "C"
+topics = ["ft4222", "hardware", "hv", "kicad", "pmod", "pulser", "rp2040", "ultrasound"]
+stars = 8
+forks = 1
+watchers = 8
+open_issues = 0
+created = "2024-04-20"
+pushed = "2024-11-15"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A family of PMODs for the rp2040-based boards (pic0rick and friends): HV pulser + HV source, PSRAM, R2R DAC, a 6-bit VGA output and an (untested) FT4222 USB bridge. KiCad sources, TAPR hardware license."
+keywords = ["pmod", "pulser", "high voltage", "psram", "r2r dac", "vga", "ft4222", "kicad"]
+tags = ["rp2040", "ftdi", "kicad"]
+curated = true

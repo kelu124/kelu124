@@ -1,0 +1,24 @@
+# pic0rick — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "pic0rick"
+url = "https://github.com/kelu124/pic0rick"
+description = "An rp2040-based acquisition board for pulse-echo ultrasound "
+homepage = "https://un0rick.cc/pic0rick"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+topics = ["ndt", "non-destructive-testing", "pico", "rp2040", "ultrasound", "ultrasound-imaging"]
+stars = 113
+forks = 28
+watchers = 113
+open_issues = 3
+created = "2024-03-31"
+pushed = "2026-10-24"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ultrasound-hardware"
+summary = "The current flagship: an RP2040 (or RP2350) based acquisition board for pulse-echo ultrasound, with a 60 Msps 10-bit ADC, protected front end and AD8331 + MCP4812 time-gain compensation. A single PMOD takes the pulser + HV board (three-level pulses via MD1210 + TC6320), a double PMOD takes a VGA output, a MAX14866 mux or whatever you fancy. Both PIOs do the heavy lifting. KiCad files, unified RP2040/RP2350 firmware and notebooks are published, and boards are on Tindie."
+keywords = ["ultrasound", "pulse echo", "acquisition board", "60msps", "pio", "tgc", "pmod", "pulser", "oshwa certified", "tindie"]
+tags = ["rp2040", "rp2350", "max14866", "kicad"]
+curated = true

@@ -1,0 +1,24 @@
+# medicotechnical — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "medicotechnical"
+url = "https://github.com/kelu124/medicotechnical"
+description = "All about the technicomedical issues"
+homepage = ""
+license = ""
+language = "HTML"
+topics = []
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2016-04-12"
+pushed = "2016-07-21"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-research"
+summary = "A 2016 site about the technico-medical issues of ultrasound devices (regulation, safety, what counts as a medical device)."
+keywords = ["medical device", "regulation", "safety", "2016"]
+tags = []
+curated = true

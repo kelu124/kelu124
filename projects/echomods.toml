@@ -1,0 +1,24 @@
+# echomods — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "echomods"
+url = "https://github.com/kelu124/echomods"
+description = "Open source ultrasound processing modules and building blocks"
+homepage = "https://www.gitbook.com/book/kelu124/echomods/details"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+topics = ["altium", "beaglebone-black", "daq", "fpga", "hardware", "ice40", "kicad", "open-source", "raspberrypi", "ultrasound"]
+stars = 460
+forks = 123
+watchers = 460
+open_issues = 0
+created = "2016-04-12"
+pushed = "2026-10-08"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-hardware"
+summary = "The historical mothership: a low-cost, open-source kit of modules (pulser, analog front end, ADC, motherboard) to let scientists, hackers and makers hack their way to ultrasound imaging for under 500$ at home. Years of raw experiment logs, probes, notebooks and the article in the Journal of Open Hardware all live here. Not a medical scanner, but a great pedagogical and NDT playground, and the ancestor of un0rick and pic0rick."
+keywords = ["ultrasound imaging", "open source hardware", "modules", "pulser", "analog front end", "experiments log", "journal of open hardware", "ndt"]
+tags = ["raspberry-pi", "beaglebone", "ice40", "hx4k", "up5k", "arduino", "altium", "kicad", "fpga"]
+curated = true

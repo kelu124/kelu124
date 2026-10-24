@@ -1,0 +1,24 @@
+# rectennas — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "rectennas"
+url = "https://github.com/kelu124/rectennas"
+description = ""
+homepage = ""
+license = ""
+language = ""
+topics = []
+stars = 2
+forks = 0
+watchers = 2
+open_issues = 0
+created = "2020-12-24"
+pushed = "2020-12-24"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A scrapbook of links and notes on rectennas (energy harvesting from GSM bands), LoRaWAN with ATmega328/ATtiny, and nano-current measurements for very low power nodes."
+keywords = ["rectenna", "energy harvesting", "lorawan", "low power", "notes"]
+tags = ["attiny", "arduino"]
+curated = true

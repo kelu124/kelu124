@@ -1,0 +1,24 @@
+# python-usb-un0rick — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "python-usb-un0rick"
+url = "https://github.com/kelu124/python-usb-un0rick"
+description = "python-usb-un0rick"
+homepage = ""
+license = "GPL-3.0"
+language = "Python"
+topics = []
+stars = 4
+forks = 3
+watchers = 4
+open_issues = 0
+created = "2020-11-04"
+pushed = "2021-07-14"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-software"
+summary = "How to set up and use the un0rick with only a USB cable: jumpers, iceprog to flash the bitstream through the on-board FTDI, udev rules, and the python lib (pyftdi based) with a test bench producing a series of images. GPL-3.0."
+keywords = ["un0rick", "usb", "pyftdi", "iceprog", "setup guide", "python"]
+tags = ["ftdi", "ice40"]
+curated = true

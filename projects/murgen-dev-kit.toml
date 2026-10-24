@@ -1,0 +1,24 @@
+# murgen-dev-kit — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "murgen-dev-kit"
+url = "https://github.com/kelu124/murgen-dev-kit"
+description = "Imaging ultrasound dev/hacking kit"
+homepage = "https://hackaday.io/project/9281-murgen"
+license = "NOASSERTION"
+language = "Rich Text Format"
+topics = []
+stars = 308
+forks = 75
+watchers = 308
+open_issues = 0
+created = "2016-02-19"
+pushed = "2021-11-11"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-hardware"
+summary = "The 2016 Murgen open-source ultrasound imaging dev-kit: get a home-made single-element pulse-echo machine running in a garage, hackerspace or fablab for under 500$, with a BitScope, an Arduino/Trinket and a hacked transducer. Where the first (rough!) echo images came from, now superseded by echomods and un0rick."
+keywords = ["ultrasound imaging", "dev kit", "pulse echo", "bitscope", "first image", "echopen", "hackaday"]
+tags = ["arduino", "altium", "beaglebone"]
+curated = true

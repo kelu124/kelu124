@@ -1,0 +1,24 @@
+# esp32cam-partageoir — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "esp32cam-partageoir"
+url = "https://github.com/kelu124/esp32cam-partageoir"
+description = "Experiments"
+homepage = ""
+license = ""
+language = "C++"
+topics = ["ap", "deaddrop", "esp32", "esp32cam", "partageoir", "piratebox", "sdcard", "sdserver"]
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2020-11-02"
+pushed = "2020-11-07"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "fun"
+summary = "An ESP32-CAM acting as a partageoir: its own access point with file sharing, picture taking, a dead-drop chat in a log file and IO control from the browser. PirateBox-style experiments from November 2020."
+keywords = ["esp32-cam", "piratebox", "dead drop", "file sharing", "access point"]
+tags = ["esp32"]
+curated = true

@@ -1,0 +1,24 @@
+# rechOpen — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "rechOpen"
+url = "https://github.com/kelu124/rechOpen"
+description = "RedPitayaCode"
+homepage = ""
+license = "NOASSERTION"
+language = "C"
+topics = []
+stars = 0
+forks = 3
+watchers = 0
+open_issues = 0
+created = "2015-09-22"
+pushed = "2015-10-20"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-hardware"
+summary = "Some 2015 Red Pitaya code and scripted commands used to understand the board for early echOpen experiments."
+keywords = ["red pitaya", "echopen", "2015", "c"]
+tags = ["redpitaya"]
+curated = true

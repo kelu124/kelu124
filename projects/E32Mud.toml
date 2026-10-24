@@ -1,0 +1,24 @@
+# E32Mud — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "E32Mud"
+url = "https://github.com/kelu124/E32Mud"
+description = "Esp32-MUD"
+homepage = ""
+license = ""
+language = "Python"
+topics = ["esp32", "micropython", "mud"]
+stars = 2
+forks = 0
+watchers = 2
+open_issues = 0
+created = "2025-06-28"
+pushed = "2026-05-27"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "fun"
+summary = "A self-contained MUD (multi-user dungeon) server running on an ESP32-C3 in MicroPython: the board becomes a wifi hotspot with a captive portal, anyone who connects lands in a browser terminal inside the text adventure. Accounts, rooms and notes survive reboots, and it runs on a PC for development."
+keywords = ["mud", "text adventure", "captive portal", "microdot", "websocket", "micropython"]
+tags = ["esp32", "micropython"]
+curated = true

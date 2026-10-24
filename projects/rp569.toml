@@ -1,0 +1,24 @@
+# rp569 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "rp569"
+url = "https://github.com/kelu124/rp569"
+description = "rp569"
+homepage = "https://kelu124.github.io/rp569/"
+license = ""
+language = "C"
+topics = []
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2026-10-23"
+pushed = "2026-10-24"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "An open hardware board (KiCad, 4-layer, 50x70 mm) pairing a Raspberry Pi RP2350B with a WCH CH569W: the RP2350B generates high-speed data (or acts as an 8-channel logic analyser) and the CH569 streams it to the host over USB 3.0 SuperSpeed. v1.0 is fully routed with JLCPCB production files; first firmware for both chips builds but has not run on hardware yet."
+keywords = ["usb3", "superspeed", "logic analyser", "high speed streaming", "jlcpcb", "kicad", "rp2350b"]
+tags = ["rp2350", "ch569", "kicad"]
+curated = true

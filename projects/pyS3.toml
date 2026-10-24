@@ -1,0 +1,24 @@
+# pyS3 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "pyS3"
+url = "https://github.com/kelu124/pyS3"
+description = "Code to communicate with S3 probe"
+homepage = ""
+license = "MIT"
+language = "HTML"
+topics = []
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2018-04-24"
+pushed = "2018-04-24"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-software"
+summary = "Notes and code to talk to an S3 wifi ultrasound probe: decompiled Java references (probe IP and port, TGC curves, frame structure) as a starting point for a python client."
+keywords = ["wifi probe", "reverse engineering", "tgc", "frame format"]
+tags = []
+curated = true

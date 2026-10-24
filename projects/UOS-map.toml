@@ -1,0 +1,24 @@
+# UOS-map — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "UOS-map"
+url = "https://github.com/kelu124/UOS-map"
+description = "Mapping the community at large"
+homepage = ""
+license = "MIT"
+language = "Jupyter Notebook"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2020-03-08"
+pushed = "2020-03-08"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-research"
+summary = "Mapping the open ultrasound community at large. Notebook stub, MIT."
+keywords = ["community mapping", "open ultrasound"]
+tags = []
+curated = true

@@ -1,0 +1,24 @@
+# lit3rick — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "lit3rick"
+url = "https://github.com/kelu124/lit3rick"
+description = "An up5k board to manage pulse-echo ultrasound acquisition."
+homepage = ""
+license = ""
+language = "Verilog"
+topics = ["hardware", "python", "tapr", "ultrasound", "ultrasound-imaging", "up5k"]
+stars = 46
+forks = 21
+watchers = 46
+open_issues = 0
+created = "2019-08-13"
+pushed = "2024-07-16"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-hardware"
+summary = "An up5k board to manage pulse-echo ultrasound acquisition: Lattice iCE40 UP5K, AD9629 12-bit ADC at 64 Msps, AD8331 gain, HV7361 pulser up to +-100V and a MCP4812 DAC for 8 us gain segments. Programmed with no FTDI at all, straight through the Raspberry Pi header, and the gateware can compute an FFT on board and stream it over I2S. OSHWA certified FR000006."
+keywords = ["ultrasound", "pulse echo", "ad9629", "fft on fpga", "i2s", "spi", "oshwa certified", "tapr", "verilog"]
+tags = ["up5k", "ice40", "fpga", "raspberry-pi"]
+curated = true

@@ -1,0 +1,24 @@
+# ENGI-5631-FA2017 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "ENGI-5631-FA2017"
+url = "https://github.com/kelu124/ENGI-5631-FA2017"
+description = "Starting 2017 Notebooks"
+homepage = ""
+license = ""
+language = "Jupyter Notebook"
+topics = []
+stars = 0
+forks = 11
+watchers = 0
+open_issues = 0
+created = "2017-08-21"
+pushed = "2017-08-18"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "other"
+summary = "Notebooks for the Vanderbilt ENGI 5631 course, fall 2017 (ultrasound teaching material). No README."
+keywords = ["teaching", "vanderbilt", "2017", "notebooks"]
+tags = []
+curated = true

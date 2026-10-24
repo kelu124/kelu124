@@ -1,0 +1,24 @@
+# barcodebattler — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "barcodebattler"
+url = "https://github.com/kelu124/barcodebattler"
+description = "A \"modern\" #barcode #battler"
+homepage = "https://kelu124.github.io/barcodebattler/"
+license = "MIT"
+language = "JavaScript"
+topics = []
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2026-10-10"
+pushed = "2026-10-11"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "fun"
+summary = "BarClode Battler, a browser remake of Epoch's 1991 Barcode Battler II handheld, built with Claude (hence the name): type or scan any EAN barcode and it becomes a warrior, wizard, item or enemy card, then fight. VS CPU, two players, story mode, 934 official cards, retro green LCD look, works offline on a phone. MIT."
+keywords = ["barcode battler", "retro game", "ean", "browser game", "camera scanning", "pwa", "claude"]
+tags = []
+curated = true

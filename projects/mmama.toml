@@ -1,0 +1,24 @@
+# mmama — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "mmama"
+url = "https://github.com/kelu124/mmama"
+description = ""
+homepage = ""
+license = ""
+language = "Python"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2023-02-04"
+pushed = "2023-02-04"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "other"
+summary = "A python environment setup (Cython pinned) for an unnamed 2023 experiment. No further content."
+keywords = ["placeholder", "2023"]
+tags = []
+curated = true

@@ -1,0 +1,24 @@
+# pyusbus — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "pyusbus"
+url = "https://github.com/kelu124/pyusbus"
+description = "Python APIs for usb ultrasound probes"
+homepage = ""
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+topics = ["api", "healson", "probe", "python", "ultrason", "ultrasound", "usb"]
+stars = 31
+forks = 9
+watchers = 31
+open_issues = 0
+created = "2021-03-25"
+pushed = "2023-01-28"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ultrasound-software"
+summary = "Python APIs for cheap USB ultrasound probes: get images in three lines of code from an Interson mechanical probe, a BMV convex, a Healson linear HP20L or a BMV linear doppler. Reverse-engineered protocols, udev rules and notebooks, work in progress but already producing frames of forearms and vein phantoms."
+keywords = ["usb probe", "interson", "healson", "bmv", "reverse engineering", "python api", "b-mode", "udev"]
+tags = []
+curated = true

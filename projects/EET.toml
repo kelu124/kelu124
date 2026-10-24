@@ -1,0 +1,24 @@
+# EET — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "EET"
+url = "https://github.com/kelu124/EET"
+description = "Ants"
+homepage = ""
+license = ""
+language = "Matlab"
+topics = []
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2013-06-06"
+pushed = "2013-06-06"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "other"
+summary = "Matlab code about ants (EET), from 2013. No README."
+keywords = ["matlab", "ants", "2013"]
+tags = []
+curated = true

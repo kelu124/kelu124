@@ -1,0 +1,24 @@
+# reelections2020 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "reelections2020"
+url = "https://github.com/kelu124/reelections2020"
+description = "Exploring 2020 election datasets"
+homepage = ""
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+topics = ["2020", "2020-municipales", "elections", "france", "municipales"]
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2020-04-03"
+pushed = "2020-04-06"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "data"
+summary = "Exploring the French 2020 municipal elections datasets from data.gouv.fr: which mayors were re-elected, town contact details, a suspicious 100% peak in small towns. Cleaning, processing and sense-making notebooks."
+keywords = ["elections", "municipales 2020", "data.gouv.fr", "notebooks", "france"]
+tags = []
+curated = true

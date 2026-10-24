@@ -1,0 +1,24 @@
+# us_rf_processing — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "us_rf_processing"
+url = "https://github.com/kelu124/us_rf_processing"
+description = "Showcasing how to rebuild a B-mode ultrasound image from an ultrasound probe."
+homepage = ""
+license = ""
+language = "Jupyter Notebook"
+topics = []
+stars = 31
+forks = 8
+watchers = 31
+open_issues = 0
+created = "2020-11-15"
+pushed = "2021-05-02"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ultrasound-software"
+summary = "Notebooks showing how to rebuild a B-mode ultrasound image from raw RF data: filtering, envelope, scan conversion, NDT experiments and signal compression (A-law). Comes with a set of RF datasets (npz) acquired with un0rick and various probes (hp2121, kretz, ATL3, Bard 3.5...)."
+keywords = ["rf processing", "b-mode", "scan conversion", "datasets", "npz", "a-law compression", "ndt", "notebooks"]
+tags = []
+curated = true

@@ -1,0 +1,24 @@
+# wulrick — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "wulrick"
+url = "https://github.com/kelu124/wulrick"
+description = "Comparison research: pic0rick vs wulpus ultrasound devices"
+homepage = ""
+license = ""
+language = "Jupyter Notebook"
+topics = []
+stars = 3
+forks = 1
+watchers = 3
+open_issues = 0
+created = "2026-06-21"
+pushed = "2026-08-07"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ultrasound-research"
+summary = "A structured technical comparison of pic0rick and ETH Zurich's WULPUS wearable ultra-low-power probe: ADC, front end, pulser, mux, connectivity, power, form factor and licenses, derived from schematics, datasheets and papers. Not a ranking, a map of what each design is good at."
+keywords = ["comparison", "wulpus", "pic0rick", "wearable ultrasound", "low power", "review"]
+tags = ["rp2040", "max14866", "ad8332"]
+curated = true

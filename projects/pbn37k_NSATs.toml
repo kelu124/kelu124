@@ -1,0 +1,24 @@
+# pbn37k_NSATs — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "pbn37k_NSATs"
+url = "https://github.com/kelu124/pbn37k_NSATs"
+description = ""
+homepage = ""
+license = ""
+language = "Jupyter Notebook"
+topics = []
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2025-10-28"
+pushed = "2025-11-21"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "data"
+summary = "Notebooks around the PROBONO living labs and their non-standard assessment tools (NSATs). Work material, light on documentation."
+keywords = ["probono", "living labs", "assessment", "notebooks"]
+tags = []
+curated = true

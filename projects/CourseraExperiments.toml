@@ -1,0 +1,24 @@
+# CourseraExperiments — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "CourseraExperiments"
+url = "https://github.com/kelu124/CourseraExperiments"
+description = ""
+homepage = ""
+license = ""
+language = "Jupyter Notebook"
+topics = []
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2021-02-16"
+pushed = "2021-02-16"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "other"
+summary = "Notebooks from Coursera courses. Empty-ish."
+keywords = ["mooc", "coursera", "notebooks"]
+tags = []
+curated = true

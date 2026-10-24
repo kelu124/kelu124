@@ -1,0 +1,24 @@
+# sensargas — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "sensargas"
+url = "https://github.com/kelu124/sensargas"
+description = "Sensors for Sargasses"
+homepage = ""
+license = ""
+language = ""
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2019-06-13"
+pushed = "2019-06-13"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "Requirements and sensor survey for Sensargas, a cheap participatory sensor node to detect Sargassum seaweed (H2S, temperature, humidity, dust, VOCs) with wifi, Bluetooth or LoRa links and low-energy constraints."
+keywords = ["sargassum", "h2s", "air quality", "sensor node", "lora", "requirements"]
+tags = ["arduino"]
+curated = true

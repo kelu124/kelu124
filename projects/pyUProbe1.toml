@@ -1,0 +1,24 @@
+# pyUProbe1 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "pyUProbe1"
+url = "https://github.com/kelu124/pyUProbe1"
+description = "Python barebones for uProbe-1 ultrasound probe acquisitions"
+homepage = ""
+license = ""
+language = "Python"
+topics = ["hardware", "python", "retroengineering", "ultrasound", "ultrasound-imaging"]
+stars = 18
+forks = 2
+watchers = 18
+open_issues = 1
+created = "2017-11-11"
+pushed = "2017-11-11"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-software"
+summary = "Python barebones to talk to a UProbe-1 wireless ultrasound probe: PCAP captures of the wifi traffic, listeners on the data and info ports, notebooks to understand headers, rebuild videos and even write a pseudo-valid DICOM. CC-BY-SA."
+keywords = ["uprobe-1", "wireless probe", "reverse engineering", "pcap", "dicom", "python"]
+tags = []
+curated = true

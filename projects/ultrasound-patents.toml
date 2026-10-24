@@ -1,0 +1,24 @@
+# ultrasound-patents — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "ultrasound-patents"
+url = "https://github.com/kelu124/ultrasound-patents"
+description = "Where patents on ultrasound first technos are mined."
+homepage = ""
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+topics = ["patents", "ultrasound"]
+stars = 3
+forks = 0
+watchers = 3
+open_issues = 0
+created = "2016-03-26"
+pushed = "2021-02-11"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-research"
+summary = "Mining patents on early ultrasound technologies: scripts to fetch and cache US patents with their backward and forward citations, save the images, plot the citation graph, and a bit of NLTK parsing on top (plus a 2020 pandas rewrite)."
+keywords = ["patents", "citation graph", "nltk", "scraping", "ultrasound history"]
+tags = []
+curated = true

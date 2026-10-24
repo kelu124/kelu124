@@ -1,0 +1,24 @@
+# ifts_tenders — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "ifts_tenders"
+url = "https://github.com/kelu124/ifts_tenders"
+description = ""
+homepage = ""
+license = ""
+language = ""
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2022-04-22"
+pushed = "2022-04-22"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "other"
+summary = "Empty placeholder from 2022 about tenders."
+keywords = ["placeholder"]
+tags = []
+curated = true

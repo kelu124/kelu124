@@ -1,0 +1,24 @@
+# ice40ppl — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "ice40ppl"
+url = "https://github.com/kelu124/ice40ppl"
+description = "Mapping ICE40 community"
+homepage = ""
+license = ""
+language = "Jupyter Notebook"
+topics = []
+stars = 2
+forks = 0
+watchers = 2
+open_issues = 0
+created = "2018-01-27"
+pushed = "2020-01-18"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "fpga"
+summary = "Mapping the iCE40 / open FPGA community from tweets: who talks to whom, who to follow. A notebook and a dataset."
+keywords = ["community mapping", "twitter", "ice40", "social graph"]
+tags = ["ice40"]
+curated = true

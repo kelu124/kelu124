@@ -1,0 +1,24 @@
+# foetal_doppler — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "foetal_doppler"
+url = "https://github.com/kelu124/foetal_doppler"
+description = ""
+homepage = ""
+license = "Unlicense"
+language = "Jupyter Notebook"
+topics = []
+stars = 0
+forks = 2
+watchers = 0
+open_issues = 0
+created = "2021-07-11"
+pushed = "2021-07-11"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ultrasound-hardware"
+summary = "Notebooks around a foetal doppler teardown and signal exploration. Unlicense, barely documented."
+keywords = ["doppler", "teardown", "notebooks"]
+tags = []
+curated = true

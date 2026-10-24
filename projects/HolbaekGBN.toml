@@ -1,0 +1,24 @@
+# HolbaekGBN — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "HolbaekGBN"
+url = "https://github.com/kelu124/HolbaekGBN"
+description = ""
+homepage = "https://kelu124.github.io/HolbaekGBN/"
+license = ""
+language = "Jupyter Notebook"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2025-10-24"
+pushed = "2025-10-31"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "data"
+summary = "Reports generated from the Placemaking Maptivity workshop in Holbaek (Denmark): participants' sticky notes analysed and expanded with AI, sourced from the web and mapped to ISO 37101 goals."
+keywords = ["holbaek", "workshop", "probono", "iso 37101", "reports"]
+tags = []
+curated = true

@@ -1,0 +1,24 @@
+# hardware_review — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "hardware_review"
+url = "https://github.com/kelu124/hardware_review"
+description = ""
+homepage = ""
+license = ""
+language = "Rich Text Format"
+topics = []
+stars = 1
+forks = 1
+watchers = 1
+open_issues = 0
+created = "2021-01-22"
+pushed = "2021-06-19"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ultrasound-research"
+summary = "Working material for a hardware review of the ultrasound boards. Placeholder-level README."
+keywords = ["review", "notes"]
+tags = []
+curated = true

@@ -1,0 +1,24 @@
+# Resume_RDF_update — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "Resume_RDF_update"
+url = "https://github.com/kelu124/Resume_RDF_update"
+description = "Parse a CV into a structured Turtle RDF knowledge graph using the ResumeRDF ontology via a password-protected Streamlit web app or a standalone Python script."
+homepage = ""
+license = ""
+language = "Python"
+topics = ["ontology", "resume", "resume-ontology"]
+stars = 3
+forks = 0
+watchers = 3
+open_issues = 0
+created = "2026-04-25"
+pushed = "2026-06-12"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ai"
+summary = "Parse a CV (PDF or text) into a Turtle RDF knowledge graph following the ResumeRDF ontology, using the Claude API: jobs, projects, clients, skills, MOOCs and publications become queryable triples. Usable as a python package, a CLI or a password-protected Streamlit app."
+keywords = ["rdf", "knowledge graph", "resume ontology", "turtle", "claude api", "streamlit", "cv parsing"]
+tags = []
+curated = true

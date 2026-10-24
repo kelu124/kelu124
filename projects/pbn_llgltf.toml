@@ -1,0 +1,24 @@
+# pbn_llgltf — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "pbn_llgltf"
+url = "https://github.com/kelu124/pbn_llgltf"
+description = "Probono - viewing Living Labs - GLTF"
+homepage = ""
+license = "MIT"
+language = "JavaScript"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2024-10-07"
+pushed = "2024-10-07"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "web"
+summary = "A glTF viewer web component (Polymer) reused to display 3D models of the PROBONO living labs. Mostly upstream code, MIT."
+keywords = ["gltf", "3d viewer", "web component", "living labs"]
+tags = []
+curated = true

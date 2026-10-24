@@ -1,0 +1,24 @@
+# TDC7k2_HCSr04 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "TDC7k2_HCSr04"
+url = "https://github.com/kelu124/TDC7k2_HCSr04"
+description = ""
+homepage = ""
+license = ""
+language = "C++"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2020-11-04"
+pushed = "2020-12-02"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "Trying to get a TDC7200 time-to-digital converter and an HC-SR04 ultrasonic ranger to work together on an M5Stack through a level shifter, with a stubborn divide-by-zero in the calibration. Arduino code and patched libs."
+keywords = ["tdc7200", "hc-sr04", "time of flight", "m5stack", "arduino"]
+tags = ["tdc7200", "esp32", "arduino"]
+curated = true

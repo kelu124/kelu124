@@ -1,0 +1,24 @@
+# 0xa5eded — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "0xa5eded"
+url = "https://github.com/kelu124/0xa5eded"
+description = "sha1(pHATrick)"
+homepage = ""
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+topics = []
+stars = 2
+forks = 0
+watchers = 2
+open_issues = 0
+created = "2024-04-06"
+pushed = "2025-01-19"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "An 8-bit, 125 Msps standalone ADC pHAT (sha1 of pHATrick = 0xA5EDED) in the pic0rick lineage, with the rp2040 tucked under the board to expose the artwork. Square and sine wave acquisitions and spectra, v2 fixes listed. TAPR licensed."
+keywords = ["adc", "phat", "125msps", "8 bits", "standalone", "tapr"]
+tags = ["rp2040", "raspberry-pi"]
+curated = true

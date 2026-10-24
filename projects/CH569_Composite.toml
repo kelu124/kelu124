@@ -1,0 +1,24 @@
+# CH569_Composite — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "CH569_Composite"
+url = "https://github.com/kelu124/CH569_Composite"
+description = ""
+homepage = ""
+license = ""
+language = "C"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2026-06-24"
+pushed = "2026-06-24"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "Firmware for the WCH CH569W USB3_SSP board: a composite USB 3.0 SuperSpeed device exposing the microSD as a mass-storage drive and two CDC-ACM ports (a UART bridge to an FPGA and a read-only debug log), with a mux protocol so the FPGA and the CH569 share the SD card. Companion to the we_gate / rp569 work."
+keywords = ["usb3", "composite device", "mass storage", "cdc-acm", "sd card", "firmware", "fpga bridge"]
+tags = ["ch569", "fpga"]
+curated = true

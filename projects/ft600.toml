@@ -1,0 +1,24 @@
+# ft600 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "ft600"
+url = "https://github.com/kelu124/ft600"
+description = "A ft600 breakout - 8bits of data, on two PMODs."
+homepage = "http://un0rick.cc"
+license = "NOASSERTION"
+language = "AGS Script"
+topics = ["altium", "fpga", "ft600", "gerbers", "hardware", "pmod", "usb3", "usbc"]
+stars = 8
+forks = 2
+watchers = 8
+open_issues = 0
+created = "2021-02-14"
+pushed = "2022-05-08"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A breakout of the FTDI FT600 USB 3.0 FIFO bridge: 8 data bits exposed on two PMODs, USB-C on the other side, to get FPGA data out fast. OSHWA certified, CERN-OHL-S v2, Altium sources and gerbers."
+keywords = ["usb3", "fifo", "breakout", "pmod", "usb-c", "oshwa certified", "cern-ohl-s"]
+tags = ["ftdi", "altium", "fpga"]
+curated = true

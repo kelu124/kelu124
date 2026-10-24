@@ -1,0 +1,24 @@
+# gbnexplore — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "gbnexplore"
+url = "https://github.com/kelu124/gbnexplore"
+description = "Exploring more sustainable cities"
+homepage = "https://kelu124.github.io/gbnexplore/"
+license = ""
+language = "Jupyter Notebook"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2025-11-21"
+pushed = "2025-11-23"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ai"
+summary = "Sustainable-city use-case explorer: takes the 49 PROBONO use cases, asks Perplexity for five comparable real-world initiatives each, stores the results, publishes them on GitHub Pages and positions everything on the ISO 37101 12x6 matrix."
+keywords = ["probono", "iso 37101", "perplexity", "llm discovery", "sustainable cities", "github pages"]
+tags = []
+curated = true

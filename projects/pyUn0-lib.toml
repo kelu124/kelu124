@@ -1,0 +1,24 @@
+# pyUn0-lib — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "pyUn0-lib"
+url = "https://github.com/kelu124/pyUn0-lib"
+description = "Lib going to python 3"
+homepage = ""
+license = ""
+language = "Python"
+topics = []
+stars = 5
+forks = 0
+watchers = 5
+open_issues = 0
+created = "2019-11-22"
+pushed = "2021-05-02"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-software"
+summary = "The un0rick companion python module (python 2 and 3) to drive the board from a Raspberry Pi over the 40-pin ribbon: TGC curves, pulse timings, sampling rate, single or multi-line acquisitions, with results saved as JSON for processing."
+keywords = ["un0rick", "python library", "spi", "tgc", "acquisition", "raspberry pi"]
+tags = ["raspberry-pi", "ice40"]
+curated = true

@@ -57,7 +57,7 @@
 | Board | What it was |
 |---|---|
 | **[murgen-dev-kit](https://github.com/kelu124/murgen-dev-kit)** ⭐ 308 | The initial BeagleBone board |
-| **[echomods](https://github.com/kelu124/echomods/)** ⭐ 459 | Ultrasound processing modules |
+| **[echomods](https://github.com/kelu124/echomods/)** ⭐ 460 | Ultrasound processing modules |
 | **[un0rick](https://github.com/kelu124/un0rick)** ⭐ 177 | The first FPGA board, ice40 + Raspberry Pi: large and efficient |
 | **[lit3rick](https://github.com/kelu124/lit3rick/)** ⭐ 46 | Its smaller successor, and the [lit3-32](https://github.com/kelu124/lit3rick/tree/lit3-32) variant with more gain |
 | **[0xa5eded](https://github.com/kelu124/0xa5eded)** | A fast rp2040 acquisition board |

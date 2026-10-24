@@ -1,0 +1,24 @@
+# ultr4rick — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "ultr4rick"
+url = "https://github.com/kelu124/ultr4rick"
+description = "High-end version of the pic0rick"
+homepage = "https://kelu124.github.io/ultr4rick/"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+topics = ["ndt", "ndt-digital", "pulse-echo", "ultrasound", "ultrasound-imaging"]
+stars = 2
+forks = 1
+watchers = 2
+open_issues = 3
+created = "2026-07-31"
+pushed = "2026-10-18"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ultrasound-hardware"
+summary = "The higher-power successor to pic0rick: an RP2350B with a 60 Msps 10-bit AD9215 ADC behind an AD8331 front end, a bipolar HV pulser fed by a SEPIC supply, a MAX14866 16-channel HV mux with 8 U.FL element connectors, uSD, RGB LED and USB-C. The firmware computes the Hilbert envelope and A-law compression of each capture on board. In the works."
+keywords = ["ultrasound", "pulse echo", "rp2350b", "bipolar pulser", "hv mux", "hilbert envelope", "a-law", "usd"]
+tags = ["rp2350", "max14866", "kicad"]
+curated = true

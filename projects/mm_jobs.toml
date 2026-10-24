@@ -1,0 +1,24 @@
+# mm_jobs — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "mm_jobs"
+url = "https://github.com/kelu124/mm_jobs"
+description = "Keeping an eye on some digital jobs"
+homepage = "https://www.mottmac.com/careers/search"
+license = ""
+language = "Jupyter Notebook"
+topics = ["digital", "jobhunting", "mottmac"]
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2024-07-12"
+pushed = "2024-11-07"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "data"
+summary = "Notebooks keeping an eye on some digital job postings. No README."
+keywords = ["job hunting", "scraping", "notebooks"]
+tags = []
+curated = true

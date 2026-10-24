@@ -33,6 +33,9 @@ Each run also appends star changes to `.claude/history/stars.csv`.
   wrong section → set `"kind"` + `"kind_manual": true` on the work.
 - `python3 .claude/scripts/profile_audit.py --fix` — sets/updates/removes `⭐ N`
   badges per the ≥ 20 rule.
+- `python3 .claude/scripts/projects_sync.py --force --hook` — refreshes `projects/*.toml`
+  (stars, forks, topics…) and rebuilds `projects/README.md`; the hook only does this
+  monthly. New repos get a seeded file → use the `curate-projects` skill to write it up.
 - Fix links to repos that were renamed (follow the API's redirect / new name).
 
 ## 3. Propose — editorial changes (ask first)

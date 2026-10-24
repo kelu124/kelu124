@@ -1,0 +1,24 @@
+# short_papers — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "short_papers"
+url = "https://github.com/kelu124/short_papers"
+description = "Short papers for Zenodo"
+homepage = ""
+license = ""
+language = "Verilog"
+topics = ["hardware", "open", "open-source", "open-source-hardware", "ultrasound", "zenodo"]
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2021-12-19"
+pushed = "2022-01-01"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ultrasound-research"
+summary = "Sources for short papers and technical notes about the open ultrasound boards, prepared for Zenodo."
+keywords = ["zenodo", "technical notes", "papers", "open hardware"]
+tags = []
+curated = true

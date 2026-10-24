@@ -1,0 +1,24 @@
+# minus — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "minus"
+url = "https://github.com/kelu124/minus"
+description = "Minimal ultrasound platform"
+homepage = ""
+license = ""
+language = ""
+topics = []
+stars = 2
+forks = 0
+watchers = 2
+open_issues = 0
+created = "2026-09-17"
+pushed = "2026-10-06"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ultrasound-hardware"
+summary = "A minimal, single-channel, low-cost open-source pulse-echo platform designed as a conference-workshop badge: RP2350, a 3-4 MHz piezo, unipolar HV pulser, VGA/TGC and external ADC, USB-C, OLED and a Raspberry Pi header. Early design stage: requirements, survey of comparable systems and component trade study so far."
+keywords = ["ultrasound", "badge", "workshop", "minimal", "a-mode", "m-mode", "muscle monitoring", "requirements"]
+tags = ["rp2350", "kicad"]
+curated = true

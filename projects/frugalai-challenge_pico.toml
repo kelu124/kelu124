@@ -1,0 +1,24 @@
+# frugalai-challenge_pico — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "frugalai-challenge_pico"
+url = "https://github.com/kelu124/frugalai-challenge_pico"
+description = "Using a microcontroler for inference - #frugalaichallenge from huggingface"
+homepage = "https://huggingface.co/spaces/kelu124/pico-sound"
+license = ""
+language = "Jupyter Notebook"
+topics = ["ai", "chainsaw", "frugalai", "rp2040", "tinyml"]
+stars = 2
+forks = 1
+watchers = 2
+open_issues = 0
+created = "2025-02-16"
+pushed = "2025-02-16"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ai"
+summary = "Submission to the Frugal AI Challenge 2025: a quantised sound-classification model (chainsaw / no chainsaw) running in real time on a 2$ RP2040 with a PDM mic and an OLED, at about 0.19 W. Training and implementation notebooks included, ~87% accuracy."
+keywords = ["tinyml", "edge ai", "sound classification", "frugal ai", "quantisation", "pdm mic", "low power"]
+tags = ["rp2040"]
+curated = true

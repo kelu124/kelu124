@@ -1,0 +1,1194 @@
+# Forks of other people's repositories — fully managed by .claude/scripts/projects_sync.py
+fetched = "2026-10-24"
+
+[[fork]]
+name = "13_potentiel_solaire"
+url = "https://github.com/kelu124/13_potentiel_solaire"
+description = ""
+language = ""
+stars = 0
+pushed = "2025-01-31"
+
+[[fork]]
+name = "4.3inch-E-paper-Office-Sign"
+url = "https://github.com/kelu124/4.3inch-E-paper-Office-Sign"
+description = "ESP8266 & 4.3inch e-paper combination to make office's door sign"
+language = "Arduino"
+stars = 1
+pushed = "2016-12-26"
+
+[[fork]]
+name = "Adafruit_Blinka"
+url = "https://github.com/kelu124/Adafruit_Blinka"
+description = ""
+language = "Python"
+stars = 1
+pushed = "2018-09-13"
+
+[[fork]]
+name = "adc_dsp_dac"
+url = "https://github.com/kelu124/adc_dsp_dac"
+description = "ADC input -> DSP -> DAC output for Discovery F4"
+language = "C"
+stars = 1
+pushed = "2014-01-18"
+
+[[fork]]
+name = "admp441-rpi"
+url = "https://github.com/kelu124/admp441-rpi"
+description = "ADMP441 for the Raspberry Pi"
+language = "C"
+stars = 0
+pushed = "2017-03-28"
+
+[[fork]]
+name = "android_linear_128"
+url = "https://github.com/kelu124/android_linear_128"
+description = "this module is for ultrasound imaging ,the image data come from the cc3200 wifi module, which made by the fpga module .the iOS module receive the image data ,after a serial signal processing ,the ultrasound image is runtime depicted"
+language = "Java"
+stars = 1
+pushed = "2017-01-03"
+
+[[fork]]
+name = "awesome-ai-art-image-synthesis"
+url = "https://github.com/kelu124/awesome-ai-art-image-synthesis"
+description = "A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools."
+language = ""
+stars = 0
+pushed = "2022-09-12"
+
+[[fork]]
+name = "awesome-open-hardware"
+url = "https://github.com/kelu124/awesome-open-hardware"
+description = "🛠Helpful items for making open source hardware projects."
+language = ""
+stars = 0
+pushed = "2026-05-27"
+
+[[fork]]
+name = "awesome-oss-monetization"
+url = "https://github.com/kelu124/awesome-oss-monetization"
+description = "🏆 A curated list of monetization approaches for open-source software. Feedback welcome!"
+language = ""
+stars = 0
+pushed = "2022-05-06"
+
+[[fork]]
+name = "awesome-readme"
+url = "https://github.com/kelu124/awesome-readme"
+description = "A curated list of awesome READMEs"
+language = ""
+stars = 1
+pushed = "2018-10-04"
+
+[[fork]]
+name = "balac_pid"
+url = "https://github.com/kelu124/balac_pid"
+description = ""
+language = "C++"
+stars = 0
+pushed = "2020-10-03"
+
+[[fork]]
+name = "beaglelogic-standalone"
+url = "https://github.com/kelu124/beaglelogic-standalone"
+description = "BeagleLogic implemented as a turnkey and standalone logic analyzer"
+language = "KiCad"
+stars = 1
+pushed = "2017-07-16"
+
+[[fork]]
+name = "Best-practices-for-conservation-of-media-art"
+url = "https://github.com/kelu124/Best-practices-for-conservation-of-media-art"
+description = "Best practices for conservation of media art from an artist’s perspective"
+language = ""
+stars = 0
+pushed = "2017-04-17"
+
+[[fork]]
+name = "crawl"
+url = "https://github.com/kelu124/crawl"
+description = "Dungeon Crawl: Stone Soup official repository"
+language = "C++"
+stars = 0
+pushed = "2016-12-07"
+
+[[fork]]
+name = "CT"
+url = "https://github.com/kelu124/CT"
+description = ""
+language = "C++"
+stars = 0
+pushed = "2017-12-28"
+
+[[fork]]
+name = "CT-Image-Reconstruction"
+url = "https://github.com/kelu124/CT-Image-Reconstruction"
+description = "Computed Tomography Image Reconstruction Project using MATLAB"
+language = ""
+stars = 2
+pushed = "2019-09-06"
+
+[[fork]]
+name = "Dhvani"
+url = "https://github.com/kelu124/Dhvani"
+description = "Low-cost, portable, super resolution ultrasound imaging system"
+language = ""
+stars = 3
+pushed = "2021-01-13"
+
+[[fork]]
+name = "DiyUS"
+url = "https://github.com/kelu124/DiyUS"
+description = ""
+language = "Jupyter Notebook"
+stars = 0
+pushed = "2018-12-22"
+
+[[fork]]
+name = "E-Paper_Pricetags"
+url = "https://github.com/kelu124/E-Paper_Pricetags"
+description = ""
+language = ""
+stars = 0
+pushed = "2021-04-11"
+
+[[fork]]
+name = "echopen_prototyping"
+url = "https://github.com/kelu124/echopen_prototyping"
+description = ""
+language = "TeX"
+stars = 1
+pushed = "2017-05-12"
+
+[[fork]]
+name = "ecologits"
+url = "https://github.com/kelu124/ecologits"
+description = "🌱 EcoLogits tracks the energy consumption and environmental footprint of using generative AI models through APIs."
+language = ""
+stars = 0
+pushed = "2024-06-11"
+
+[[fork]]
+name = "Eel"
+url = "https://github.com/kelu124/Eel"
+description = "A little Python library for making simple Electron-like HTML/JS GUI apps"
+language = "Python"
+stars = 0
+pushed = "2018-01-08"
+
+[[fork]]
+name = "Esp-radio"
+url = "https://github.com/kelu124/Esp-radio"
+description = "Internet radio based on Esp8266 and VS1053."
+language = "Arduino"
+stars = 1
+pushed = "2017-08-29"
+
+[[fork]]
+name = "ESP32"
+url = "https://github.com/kelu124/ESP32"
+description = "Arduino sketches for the ESP32"
+language = ""
+stars = 0
+pushed = "2019-01-01"
+
+[[fork]]
+name = "ESP32-8266-File-Upload"
+url = "https://github.com/kelu124/ESP32-8266-File-Upload"
+description = "Using HTTP and an HTML interface to Upload and Download files to an ESP32 or ESP8266 Filing System"
+language = ""
+stars = 0
+pushed = "2018-10-05"
+
+[[fork]]
+name = "ESP32_CoinCell"
+url = "https://github.com/kelu124/ESP32_CoinCell"
+description = "An ESP32 Project with sensors and tiny display powered by a coin cell"
+language = "C++"
+stars = 1
+pushed = "2019-02-10"
+
+[[fork]]
+name = "espple"
+url = "https://github.com/kelu124/espple"
+description = "Apple 1 Emulator with PAL RF Output"
+language = "C"
+stars = 0
+pushed = "2017-12-30"
+
+[[fork]]
+name = "evennia"
+url = "https://github.com/kelu124/evennia"
+description = "Python MUD/MUX/MUSH/MU* development system"
+language = "Python"
+stars = 0
+pushed = "2019-01-04"
+
+[[fork]]
+name = "exploringBB"
+url = "https://github.com/kelu124/exploringBB"
+description = "Source code for the book Exploring BeagleBone, by Derek Molloy (see www.exploringbeaglebone.com)"
+language = "C++"
+stars = 0
+pushed = "2016-04-30"
+
+[[fork]]
+name = "FaceDetect"
+url = "https://github.com/kelu124/FaceDetect"
+description = ""
+language = "Python"
+stars = 1
+pushed = "2017-02-15"
+
+[[fork]]
+name = "foboot"
+url = "https://github.com/kelu124/foboot"
+description = "Bootloader for Fomu"
+language = "Verilog"
+stars = 1
+pushed = "2019-06-25"
+
+[[fork]]
+name = "fpga-fft"
+url = "https://github.com/kelu124/fpga-fft"
+description = "sliding DFT for FPGA, targetting Lattice ICE40 1k"
+language = ""
+stars = 1
+pushed = "2019-05-08"
+
+[[fork]]
+name = "fpga-workshop"
+url = "https://github.com/kelu124/fpga-workshop"
+description = "Workshop that is going to be given together with the UPduino dev board"
+language = ""
+stars = 1
+pushed = "2019-10-19"
+
+[[fork]]
+name = "fpga101-workshop"
+url = "https://github.com/kelu124/fpga101-workshop"
+description = "FPGA 101 - Workshop materials"
+language = "C"
+stars = 1
+pushed = "2018-05-28"
+
+[[fork]]
+name = "fpga_fibre_scan"
+url = "https://github.com/kelu124/fpga_fibre_scan"
+description = "  本信号处理板主要由FPGA芯片和CYUSB3.0 芯片组成,其中FPGA模块主要完成与相关外设的交互，CYUSB3.0主要完成协议数据的传输。      2.2.1  FPGA模块         处理流程：   1. 链路初始化： 在上位机完成USB固件的下载，并读取固件的信息状态描述后，通过上电复位或者手动复位，通过串口发送0X55给上位机，表明链路打通，一次握手成功。 2. 超声波发射与AD数据接收：在收到上位机通过串口发送的0X02指令后，开启（START），发送超声方波信号，（注：该START信号在处理过程被改变成包络信号）因为只是单阵元，所以就没有接收延迟聚焦的问题，但有皮肤表皮的客观实际和单阵元回波的时间消耗，所以在等到C_CORDIC_DELAY（1000）后，才开始AD数据的采集。（注：具体多少厚度，需要细算）。每次采集4096个数据，形成一个扫描线；总共需要采集300根扫描线，若不够，则需重新发送方波，并接收AD数据。 3.  剪切波发送： 在采集到第33根扫描线后，开始剪切波的发送，简单的发送50HZ的单载波就可以，此后的AD数据就含有剪切波的信息。 4.  控制通路的信息：  这里通过CYUSB3.0的串口来传送上位机发送的控制端口信息 ，包括数据通路的读和写指令（注：这里只需要通过BULK读取数据通路的数据，不需要通过BULK向数据通路写数据）；通过CYUSB3.0的串口来传送下位机FPGA的状态信息指令给上位机。（由于采用的是URAT，所以有FIFO缓存和数据发送接收状态控制操作） 5. 数据通路的信息： 这里通过上位机的读写指令来将数据存储到FIFO中，这里默认发送的是0X00指令，一直读取AD采集到的数据。并且采用的是BULK的Xfer->read的同步传输，一直要等到指定数目数据（4096*300）采集完才结束采集。     2.2.2   USB3.0模块          1. 这里首先要进行存储划分和寄存器映射，一般汇编或者其他CMD格式，然后编写BOOTLOAD汇编，最后中断跳转处理（汇编）。      2. 这里主要配置GPIF的异步串口参数和读写操作。      3. 这里需要给出CTL端口和BULK端口的配置和读写。     2.3  上位机软件      这里主要完成算法的处理和界面的显示和控制。 关于算法部分需要后面补充，目前没有完全消化。       处理流程：   1. 初始化USB，然后上位机通过控制端点发送写命令控制字（不加帧头命令）下位机未处理，开启监视工作线程循环，主要内容是：通过控制端点发送读命令控制字，通过控制端点读回串口信息，用来验证设备是否启动握手成功（0X55）。 2. 启动成功后引发响应的启动触发方法。启动触发方法中，先要延时大于0.36s，如果选中check_box，则使用存储的测试数据，若未选中，通过控制端点发送写start命令，开启bulk端口读循环线程，最后每次测量发送一次读bulk数据消息到消息队列。 3. 在bulk端口读循环线程中引发响应的bulk读方法，在bulk读方法中，主要调用底层的USB3.0的bulkin读方法，数据读上来后，post一个getData消息，交由绑定的函数来处理数据。 4.  数据处理包括二独立部分，一部分是原始数据产生MotionMOdel信息 ,一部分是原始数据产生剪切波速度和杨氏模量信息。"
+language = ""
+stars = 2
+pushed = "2015-11-09"
+
+[[fork]]
+name = "FPGA_Ultrasound"
+url = "https://github.com/kelu124/FPGA_Ultrasound"
+description = " CMU 18545 FPGA project -- Multi-channel ultrasound data acquisition and beamforming system."
+language = "Verilog"
+stars = 3
+pushed = "2016-04-27"
+
+[[fork]]
+name = "FPGADesignElements"
+url = "https://github.com/kelu124/FPGADesignElements"
+description = "A self-contained online book containing a library of FPGA design modules and related coding/design guides."
+language = ""
+stars = 2
+pushed = "2020-10-01"
+
+[[fork]]
+name = "frogdraw"
+url = "https://github.com/kelu124/frogdraw"
+description = "procedurally generated frogs drawings"
+language = "JavaScript"
+stars = 0
+pushed = "2026-10-24"
+
+[[fork]]
+name = "FTDI-245fifo-interface"
+url = "https://github.com/kelu124/FTDI-245fifo-interface"
+description = "FPGA-based USB fast communication using FT232H/FT600 chip."
+language = ""
+stars = 1
+pushed = "2020-09-02"
+
+[[fork]]
+name = "github-traffic-stats"
+url = "https://github.com/kelu124/github-traffic-stats"
+description = "Get statistics on web traffic to your GitHub repositories."
+language = "Python"
+stars = 0
+pushed = "2018-06-03"
+
+[[fork]]
+name = "godot"
+url = "https://github.com/kelu124/godot"
+description = "Godot Engine – Multi-platform 2D and 3D game engine"
+language = ""
+stars = 0
+pushed = "2023-09-04"
+
+[[fork]]
+name = "HairAnalysis"
+url = "https://github.com/kelu124/HairAnalysis"
+description = "Hair detection, segmentation, and hairstyle classification in the wild"
+language = "Python"
+stars = 1
+pushed = "2018-03-08"
+
+[[fork]]
+name = "hcsr04"
+url = "https://github.com/kelu124/hcsr04"
+description = "Beaglebone Black PRU code for HC-SR04 sonar"
+language = "OpenEdge ABL"
+stars = 0
+pushed = "2014-10-26"
+
+[[fork]]
+name = "HDR-US"
+url = "https://github.com/kelu124/HDR-US"
+description = "High Dynamic Range Ultrasound Imaging"
+language = "Matlab"
+stars = 1
+pushed = "2018-06-22"
+
+[[fork]]
+name = "hsdaoh"
+url = "https://github.com/kelu124/hsdaoh"
+description = "High Speed Data Acquisition over HDMI - Userspace library"
+language = ""
+stars = 0
+pushed = "2025-04-25"
+
+[[fork]]
+name = "hsdaoh-rp2350"
+url = "https://github.com/kelu124/hsdaoh-rp2350"
+description = "High Speed Data Acquisition over HDMI - RP2350 HSTX implementation"
+language = ""
+stars = 0
+pushed = "2025-05-31"
+
+[[fork]]
+name = "hx4k-pmod"
+url = "https://github.com/kelu124/hx4k-pmod"
+description = "Lattice HX4K breakout board, designed for hand-assembly"
+language = ""
+stars = 0
+pushed = "2020-08-21"
+
+[[fork]]
+name = "iCE40-ADC"
+url = "https://github.com/kelu124/iCE40-ADC"
+description = "Fast Analog-Digital-Converter (ADC) extension module for iCE40HX1K-EVB or iCE40HX8K-EVB"
+language = ""
+stars = 1
+pushed = "2017-10-24"
+
+[[fork]]
+name = "iCE40-feather"
+url = "https://github.com/kelu124/iCE40-feather"
+description = "iCE40UP5K in a Feather compatible form factor"
+language = ""
+stars = 0
+pushed = "2019-11-25"
+
+[[fork]]
+name = "ice40-library"
+url = "https://github.com/kelu124/ice40-library"
+description = "A library of iCE40 parts which are formally verified using Yosys and simulated using Verilator"
+language = "Verilog"
+stars = 1
+pushed = "2018-12-08"
+
+[[fork]]
+name = "ice40_esp32_bitstream_upload"
+url = "https://github.com/kelu124/ice40_esp32_bitstream_upload"
+description = "Upload a FPGA ice40 bitstream via curl using a ESP32 in arduino"
+language = "C"
+stars = 2
+pushed = "2018-03-03"
+
+[[fork]]
+name = "ice40_ultraplus_examples"
+url = "https://github.com/kelu124/ice40_ultraplus_examples"
+description = "Examples for iCE40 UltraPlus FPGA: BRAM, SPRAM, SPI, flash, DSP and a working RISC-V implementation"
+language = "Verilog"
+stars = 1
+pushed = "2019-06-11"
+
+[[fork]]
+name = "ice40helper"
+url = "https://github.com/kelu124/ice40helper"
+description = ""
+language = ""
+stars = 1
+pushed = "2020-06-20"
+
+[[fork]]
+name = "icebreaker"
+url = "https://github.com/kelu124/icebreaker"
+description = "Small and low cost FPGA educational and development board"
+language = ""
+stars = 0
+pushed = "2018-09-06"
+
+[[fork]]
+name = "icehat"
+url = "https://github.com/kelu124/icehat"
+description = ""
+language = ""
+stars = 0
+pushed = "2017-01-27"
+
+[[fork]]
+name = "icestorm"
+url = "https://github.com/kelu124/icestorm"
+description = "Project IceStorm - Lattice iCE40 FPGAs Bitstream Documentaion (Reverse Engineered)"
+language = "Python"
+stars = 0
+pushed = "2018-01-16"
+
+[[fork]]
+name = "iceZ0mb1e"
+url = "https://github.com/kelu124/iceZ0mb1e"
+description = "FPGA 8-Bit TV80 SoC for Lattice iCE40 with complete open-source toolchain flow using yosys and SDCC"
+language = "C"
+stars = 0
+pushed = "2018-04-24"
+
+[[fork]]
+name = "icotools"
+url = "https://github.com/kelu124/icotools"
+description = "Tools and Examples for IcoBoard"
+language = "Verilog"
+stars = 1
+pushed = "2017-05-29"
+
+[[fork]]
+name = "IntersonManager"
+url = "https://github.com/kelu124/IntersonManager"
+description = ""
+language = ""
+stars = 0
+pushed = "2016-04-29"
+
+[[fork]]
+name = "jekyllthemes"
+url = "https://github.com/kelu124/jekyllthemes"
+description = "A directory of the best-looking themes for Jekyll blogs"
+language = "CSS"
+stars = 0
+pushed = "2016-06-16"
+
+[[fork]]
+name = "just-the-docs"
+url = "https://github.com/kelu124/just-the-docs"
+description = "A modern, high customizable, responsive Jekyll theme for documention with built-in search."
+language = "SCSS"
+stars = 0
+pushed = "2022-07-13"
+
+[[fork]]
+name = "KGen"
+url = "https://github.com/kelu124/KGen"
+description = "Knowledge graphs generation from unstructured text."
+language = ""
+stars = 1
+pushed = "2022-07-16"
+
+[[fork]]
+name = "Kilsyth"
+url = "https://github.com/kelu124/Kilsyth"
+description = ""
+language = ""
+stars = 0
+pushed = "2020-07-29"
+
+[[fork]]
+name = "kitnic"
+url = "https://github.com/kelu124/kitnic"
+description = "A registry of ready to build open hardware electronics projects "
+language = "JavaScript"
+stars = 0
+pushed = "2021-06-19"
+
+[[fork]]
+name = "LeadQualifier"
+url = "https://github.com/kelu124/LeadQualifier"
+description = ""
+language = "Python"
+stars = 0
+pushed = "2016-06-08"
+
+[[fork]]
+name = "legacy"
+url = "https://github.com/kelu124/legacy"
+description = "here are all the materials to play with the echOpen Kit - regarding the software tools "
+language = "JavaScript"
+stars = 0
+pushed = "2016-12-09"
+
+[[fork]]
+name = "lemonade-stand"
+url = "https://github.com/kelu124/lemonade-stand"
+description = "A handy guide to financial support for open source"
+language = ""
+stars = 0
+pushed = "2016-08-05"
+
+[[fork]]
+name = "libmaple"
+url = "https://github.com/kelu124/libmaple"
+description = "[INACTIVE] C and C++ library for STM32 ARM Cortex-M3 development boards."
+language = "C"
+stars = 0
+pushed = "2016-07-28"
+
+[[fork]]
+name = "link171"
+url = "https://github.com/kelu124/link171"
+description = "FPGA link171 链路工程代码"
+language = ""
+stars = 1
+pushed = "2019-09-24"
+
+[[fork]]
+name = "llm-slot-filling"
+url = "https://github.com/kelu124/llm-slot-filling"
+description = ""
+language = ""
+stars = 0
+pushed = "2023-11-04"
+
+[[fork]]
+name = "logLUTs"
+url = "https://github.com/kelu124/logLUTs"
+description = ""
+language = ""
+stars = 0
+pushed = "2019-09-21"
+
+[[fork]]
+name = "luma.core"
+url = "https://github.com/kelu124/luma.core"
+description = "A component library providing a Pillow-compatible drawing canvas, and other functionality to support drawing primitives and text-rendering capabilities for small displays on the Raspberry Pi and other single board computers."
+language = ""
+stars = 0
+pushed = "2019-07-21"
+
+[[fork]]
+name = "luma.led_matrix"
+url = "https://github.com/kelu124/luma.led_matrix"
+description = "Python module to drive LED Matrices & 7-segment displays (MAX7219) and RGB NeoPixels (WS2812 / APA102)"
+language = ""
+stars = 0
+pushed = "2019-07-20"
+
+[[fork]]
+name = "M5Stack-SD-Updater"
+url = "https://github.com/kelu124/M5Stack-SD-Updater"
+description = "Customizable menu system for M5Stack and ESP32-Chimera-Core - loads apps from the Micro SD card. Easily add you own apps"
+language = ""
+stars = 0
+pushed = "2020-01-09"
+
+[[fork]]
+name = "M5StickC"
+url = "https://github.com/kelu124/M5StickC"
+description = "M5Stack Arduino Library"
+language = ""
+stars = 0
+pushed = "2020-04-21"
+
+[[fork]]
+name = "Me_Bot"
+url = "https://github.com/kelu124/Me_Bot"
+description = "Build a bot that speaks like you!"
+language = "Jupyter Notebook"
+stars = 0
+pushed = "2018-11-27"
+
+[[fork]]
+name = "MeDoraH_NLP"
+url = "https://github.com/kelu124/MeDoraH_NLP"
+description = ""
+language = ""
+stars = 0
+pushed = "2026-05-27"
+
+[[fork]]
+name = "minimal-mistakes"
+url = "https://github.com/kelu124/minimal-mistakes"
+description = ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio."
+language = ""
+stars = 0
+pushed = "2019-09-10"
+
+[[fork]]
+name = "Minitel1B_Hard"
+url = "https://github.com/kelu124/Minitel1B_Hard"
+description = "Minitel Library for Arduino (with HardwareSerial)"
+language = ""
+stars = 0
+pushed = "2024-04-18"
+
+[[fork]]
+name = "mud-pi"
+url = "https://github.com/kelu124/mud-pi"
+description = "A simple MUD server in Python, for teaching purposes, which could be run on a Raspberry Pi"
+language = "Python"
+stars = 2
+pushed = "2017-08-26"
+
+[[fork]]
+name = "nonflowers"
+url = "https://github.com/kelu124/nonflowers"
+description = "Procedurally generated paintings of nonexistent flowers."
+language = ""
+stars = 0
+pushed = "2021-12-22"
+
+[[fork]]
+name = "open-fpga-verilog-tutorial"
+url = "https://github.com/kelu124/open-fpga-verilog-tutorial"
+description = "Learn how to design digital systems and synthesize them into an FPGA using only opensource tools"
+language = ""
+stars = 1
+pushed = "2019-11-25"
+
+[[fork]]
+name = "openmakewebsite"
+url = "https://github.com/kelu124/openmakewebsite"
+description = "hugo website for the project outreach"
+language = ""
+stars = 0
+pushed = "2025-12-02"
+
+[[fork]]
+name = "openSAFT"
+url = "https://github.com/kelu124/openSAFT"
+description = "An open implementation of the Synthetic Aperture Focusing Technique (SAFT). This code was created initially for ultrasonic concrete inspection. "
+language = "MATLAB"
+stars = 1
+pushed = "2018-06-28"
+
+[[fork]]
+name = "OpenSourceUltrasound2019"
+url = "https://github.com/kelu124/OpenSourceUltrasound2019"
+description = "Thesis Project software and hardware files"
+language = ""
+stars = 1
+pushed = "2019-11-19"
+
+[[fork]]
+name = "PCB-Business-Card"
+url = "https://github.com/kelu124/PCB-Business-Card"
+description = "My open source 'business card\" is an ATtiny85 development board utilizing a credit card form factor to easily fit into a wallet. It types out my contact info when a capacitive touch sensor is activated."
+language = "HTML"
+stars = 0
+pushed = "2017-09-18"
+
+[[fork]]
+name = "pdf-zip-nes-polyglot"
+url = "https://github.com/kelu124/pdf-zip-nes-polyglot"
+description = "PDF/ZIP/NES polyglot file generator (PoC||GTFO 0x14-style)"
+language = ""
+stars = 0
+pushed = "2017-04-18"
+
+[[fork]]
+name = "PDFGitPolyglot"
+url = "https://github.com/kelu124/PDFGitPolyglot"
+description = "In which a PDF is a Git Repository Containing its own LaTeX Source and a Copy of Itself"
+language = "TeX"
+stars = 0
+pushed = "2017-06-12"
+
+[[fork]]
+name = "phantomdrive"
+url = "https://github.com/kelu124/phantomdrive"
+description = "Seemingly normal USB drive with a hidden security feature"
+language = ""
+stars = 1
+pushed = "2026-07-22"
+
+[[fork]]
+name = "PicoRX"
+url = "https://github.com/kelu124/PicoRX"
+description = "Build a SDR SW/MW/LW Receiver with a Raspberry Pi Pico"
+language = ""
+stars = 1
+pushed = "2023-12-21"
+
+[[fork]]
+name = "PRJ-commty_method"
+url = "https://github.com/kelu124/PRJ-commty_method"
+description = "Repository dedicated to all methodological aspects of the project"
+language = ""
+stars = 0
+pushed = "2017-02-14"
+
+[[fork]]
+name = "PRJ-eco_business"
+url = "https://github.com/kelu124/PRJ-eco_business"
+description = "Gathering information about business model / market study"
+language = "Jupyter Notebook"
+stars = 0
+pushed = "2017-05-19"
+
+[[fork]]
+name = "PRJ-medtec_kit"
+url = "https://github.com/kelu124/PRJ-medtec_kit"
+description = "Documentation compilation"
+language = "KiCad"
+stars = 1
+pushed = "2017-05-30"
+
+[[fork]]
+name = "PRJ-medtec_sigproc"
+url = "https://github.com/kelu124/PRJ-medtec_sigproc"
+description = ""
+language = "Jupyter Notebook"
+stars = 0
+pushed = "2017-05-29"
+
+[[fork]]
+name = "projf-explore"
+url = "https://github.com/kelu124/projf-explore"
+description = "Exploring FPGAs design sources from Project F."
+language = ""
+stars = 1
+pushed = "2020-11-26"
+
+[[fork]]
+name = "pru-dds"
+url = "https://github.com/kelu124/pru-dds"
+description = "Highly configurable Beaglebone PRU-based DDS"
+language = "C"
+stars = 1
+pushed = "2015-02-10"
+
+[[fork]]
+name = "prudaq"
+url = "https://github.com/kelu124/prudaq"
+description = " PRUDAQ is an open source 40MSPS (megasamples per second) Data Acquisition board for the Beaglebone Black/Green"
+language = "Eagle"
+stars = 1
+pushed = "2016-07-12"
+
+[[fork]]
+name = "pydicom"
+url = "https://github.com/kelu124/pydicom"
+description = "Read, modify and write DICOM files with python code"
+language = "Python"
+stars = 0
+pushed = "2017-01-18"
+
+[[fork]]
+name = "pyftdi"
+url = "https://github.com/kelu124/pyftdi"
+description = "FTDI device driver written in pure Python"
+language = "Python"
+stars = 2
+pushed = "2018-01-30"
+
+[[fork]]
+name = "pyliferisk"
+url = "https://github.com/kelu124/pyliferisk"
+description = "A python library for life actuarial calculations"
+language = "Python"
+stars = 0
+pushed = "2017-06-26"
+
+[[fork]]
+name = "pyspiflash"
+url = "https://github.com/kelu124/pyspiflash"
+description = "SPI data flash device drivers (pure Python)"
+language = "Python"
+stars = 0
+pushed = "2017-06-09"
+
+[[fork]]
+name = "PythonCatPrinter"
+url = "https://github.com/kelu124/PythonCatPrinter"
+description = "Reverse engineered printer commands for the GB01 Cat Thermal Printer that use the \"iPrint\" app"
+language = ""
+stars = 0
+pushed = "2021-07-24"
+
+[[fork]]
+name = "raspice40"
+url = "https://github.com/kelu124/raspice40"
+description = "Configure a raspberry pi 3 to program the lattice ice40HX8K fpga board from olimex"
+language = "Shell"
+stars = 1
+pushed = "2019-01-02"
+
+[[fork]]
+name = "rnn-writer"
+url = "https://github.com/kelu124/rnn-writer"
+description = ""
+language = "CoffeeScript"
+stars = 0
+pushed = "2016-05-06"
+
+[[fork]]
+name = "rpi-wifi"
+url = "https://github.com/kelu124/rpi-wifi"
+description = "Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi"
+language = ""
+stars = 2
+pushed = "2020-05-11"
+
+[[fork]]
+name = "RpiSoft-UART"
+url = "https://github.com/kelu124/RpiSoft-UART"
+description = "A Raspberry Pi / BCM2835 Software-based UART Linux device driver"
+language = "C"
+stars = 1
+pushed = "2017-07-29"
+
+[[fork]]
+name = "rtl-ultrasound"
+url = "https://github.com/kelu124/rtl-ultrasound"
+description = "🔊 Ultrasound imaging with RTL-SDR "
+language = "Jupyter Notebook"
+stars = 1
+pushed = "2018-08-29"
+
+[[fork]]
+name = "sandsifter"
+url = "https://github.com/kelu124/sandsifter"
+description = "The x86 processor fuzzer"
+language = "Python"
+stars = 0
+pushed = "2017-07-28"
+
+[[fork]]
+name = "saxonsoc-ulx3s-bin"
+url = "https://github.com/kelu124/saxonsoc-ulx3s-bin"
+description = "The binaries for SaxonSoc Linux and other configurations"
+language = ""
+stars = 0
+pushed = "2019-11-20"
+
+[[fork]]
+name = "sdrangel"
+url = "https://github.com/kelu124/sdrangel"
+description = "SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube"
+language = ""
+stars = 2
+pushed = "2023-10-29"
+
+[[fork]]
+name = "shan-shui-inf"
+url = "https://github.com/kelu124/shan-shui-inf"
+description = "Procedurally generated Chinese landscape painting."
+language = ""
+stars = 0
+pushed = "2018-12-11"
+
+[[fork]]
+name = "Silice"
+url = "https://github.com/kelu124/Silice"
+description = "Silice is an open source language that simplifies prototyping and writing algorithms on FPGA architectures."
+language = ""
+stars = 0
+pushed = "2021-05-06"
+
+[[fork]]
+name = "silver-octo-giggle"
+url = "https://github.com/kelu124/silver-octo-giggle"
+description = "VC++超声扫描应用软件"
+language = ""
+stars = 1
+pushed = "2017-07-27"
+
+[[fork]]
+name = "simple-neural-networks"
+url = "https://github.com/kelu124/simple-neural-networks"
+description = "Simple Neural Networks"
+language = "Python"
+stars = 1
+pushed = "2016-05-09"
+
+[[fork]]
+name = "SimpleRick"
+url = "https://github.com/kelu124/SimpleRick"
+description = "Low-cost 2D ultrasound imaging"
+language = ""
+stars = 0
+pushed = "2018-08-06"
+
+[[fork]]
+name = "SlicerITKUltrasound"
+url = "https://github.com/kelu124/SlicerITKUltrasound"
+description = "Ultrasound image formation, processing, and analysis. Interfaces built off the ITKUltrasound library."
+language = "C++"
+stars = 2
+pushed = "2016-12-16"
+
+[[fork]]
+name = "SMARTCITIES-HACK-2021"
+url = "https://github.com/kelu124/SMARTCITIES-HACK-2021"
+description = "MyWay: Helping you to find your safe way in Singapore "
+language = "Jupyter Notebook"
+stars = 0
+pushed = "2021-06-07"
+
+[[fork]]
+name = "starterkit"
+url = "https://github.com/kelu124/starterkit"
+description = "This repository is dedicated to anyone who wants to become a contributor. This is where to sart"
+language = ""
+stars = 1
+pushed = "2016-07-27"
+
+[[fork]]
+name = "staticrypt"
+url = "https://github.com/kelu124/staticrypt"
+description = "Password protect a static HTML page"
+language = ""
+stars = 0
+pushed = "2023-02-18"
+
+[[fork]]
+name = "sump2"
+url = "https://github.com/kelu124/sump2"
+description = "open-source logic analyzer for FPGAs"
+language = "Python"
+stars = 1
+pushed = "2018-05-16"
+
+[[fork]]
+name = "supra"
+url = "https://github.com/kelu124/supra"
+description = "SUPRA: Software Defined Ultrasound Processing for Real-Time Applications - An Open Source 2D and 3D Pipeline from Beamforming to B-Mode"
+language = "C++"
+stars = 0
+pushed = "2018-01-12"
+
+[[fork]]
+name = "TapTDOA"
+url = "https://github.com/kelu124/TapTDOA"
+description = "TapTDOA is a project to explore the possibility of making a generic tap interface controller."
+language = "C"
+stars = 1
+pushed = "2018-08-06"
+
+[[fork]]
+name = "TDC7200"
+url = "https://github.com/kelu124/TDC7200"
+description = "Arduino library for the Texas Instruments TDC7200 Time-to-Digital Converter for Time-of-Flight Applications in LIDAR, Magnetostrictive and Flow Meters"
+language = ""
+stars = 1
+pushed = "2018-03-10"
+
+[[fork]]
+name = "TeenyUSB"
+url = "https://github.com/kelu124/TeenyUSB"
+description = "Lightweight USB device and host stack for STM32 and other MCUs. Ready for USB 3.0 device."
+language = ""
+stars = 1
+pushed = "2023-11-30"
+
+[[fork]]
+name = "the_trove"
+url = "https://github.com/kelu124/the_trove"
+description = "gitbook gathering dumps from former tools (Basecamp, wiki, ...)"
+language = "HTML"
+stars = 0
+pushed = "2017-05-19"
+
+[[fork]]
+name = "tips"
+url = "https://github.com/kelu124/tips"
+description = "Most commonly used git tips and tricks."
+language = "JavaScript"
+stars = 0
+pushed = "2016-06-08"
+
+[[fork]]
+name = "torch-rnn-server"
+url = "https://github.com/kelu124/torch-rnn-server"
+description = ""
+language = "Lua"
+stars = 0
+pushed = "2016-05-05"
+
+[[fork]]
+name = "tritiled"
+url = "https://github.com/kelu124/tritiled"
+description = "TritiLED: multi-year LED glow markers"
+language = "Assembly"
+stars = 0
+pushed = "2020-11-21"
+
+[[fork]]
+name = "truepolyglot"
+url = "https://github.com/kelu124/truepolyglot"
+description = "Create polyglot files, which are valid PDF and ZIP simultaneously. See POC||GTFO 07. (forked from git.hackade.org)"
+language = "Python"
+stars = 0
+pushed = "2021-06-23"
+
+[[fork]]
+name = "twitter"
+url = "https://github.com/kelu124/twitter"
+description = "Where twitter knowledge is mined"
+language = "Python"
+stars = 1
+pushed = "2016-11-25"
+
+[[fork]]
+name = "ultraschallprojekt"
+url = "https://github.com/kelu124/ultraschallprojekt"
+description = ""
+language = "Jupyter Notebook"
+stars = 0
+pushed = "2018-01-30"
+
+[[fork]]
+name = "UltraSound"
+url = "https://github.com/kelu124/UltraSound"
+description = "Low-cost open source UltraSound system"
+language = "CMake"
+stars = 1
+pushed = "2015-03-11"
+
+[[fork]]
+name = "ultrasoundImaging"
+url = "https://github.com/kelu124/ultrasoundImaging"
+description = ""
+language = "Jupyter Notebook"
+stars = 2
+pushed = "2017-12-05"
+
+[[fork]]
+name = "up5k"
+url = "https://github.com/kelu124/up5k"
+description = "Upduino v2 with the ice40 up5k FPGA demos"
+language = "Verilog"
+stars = 1
+pushed = "2019-04-10"
+
+[[fork]]
+name = "up5k-demos"
+url = "https://github.com/kelu124/up5k-demos"
+description = "ice40 UltraPlus demos"
+language = ""
+stars = 1
+pushed = "2017-11-23"
+
+[[fork]]
+name = "up5k_basic"
+url = "https://github.com/kelu124/up5k_basic"
+description = "A small 6502 system with MS BASIC in ROM"
+language = "Verilog"
+stars = 1
+pushed = "2019-04-14"
+
+[[fork]]
+name = "up5k_vga"
+url = "https://github.com/kelu124/up5k_vga"
+description = "A complete 65C02 computer with VGA output on a Lattice Ultra Plus FPGA"
+language = ""
+stars = 1
+pushed = "2019-06-12"
+
+[[fork]]
+name = "UPDuino_v2_0"
+url = "https://github.com/kelu124/UPDuino_v2_0"
+description = "UPDuino v2.0 - PCB Design Files, Designs, Documentation"
+language = "Coq"
+stars = 0
+pushed = "2018-01-31"
+
+[[fork]]
+name = "usb-esp"
+url = "https://github.com/kelu124/usb-esp"
+description = "How to make a tiny USB powered ESP-12S"
+language = "C++"
+stars = 1
+pushed = "2019-03-11"
+
+[[fork]]
+name = "ustk"
+url = "https://github.com/kelu124/ustk"
+description = "Ultrasound Tool Kit"
+language = "C++"
+stars = 0
+pushed = "2017-07-03"
+
+[[fork]]
+name = "utrasound_mobile_fpga"
+url = "https://github.com/kelu124/utrasound_mobile_fpga"
+description = "fpga for  utrasound mobile  device "
+language = "Verilog"
+stars = 2
+pushed = "2015-08-10"
+
+[[fork]]
+name = "warriorjs"
+url = "https://github.com/kelu124/warriorjs"
+description = "Game written in JavaScript for learning JavaScript and artificial intelligence."
+language = "JavaScript"
+stars = 0
+pushed = "2016-04-16"
+
+[[fork]]
+name = "wavecatcher"
+url = "https://github.com/kelu124/wavecatcher"
+description = "Wavecatcher - simple board for acoustic cryptanalysis "
+language = "C"
+stars = 2
+pushed = "2018-08-12"
+
+[[fork]]
+name = "waveflow"
+url = "https://github.com/kelu124/waveflow"
+description = "Waveflow: signal processing with tensorflow."
+language = "Python"
+stars = 2
+pushed = "2018-05-21"
+
+[[fork]]
+name = "wifi_display"
+url = "https://github.com/kelu124/wifi_display"
+description = "E-ink wireless display"
+language = ""
+stars = 2
+pushed = "2016-05-24"
+
+[[fork]]
+name = "WTFpga"
+url = "https://github.com/kelu124/WTFpga"
+description = "2 hour crash course in FPGAs"
+language = "Shell"
+stars = 1
+pushed = "2018-12-28"
+
+[[fork]]
+name = "xor_vga_fpga"
+url = "https://github.com/kelu124/xor_vga_fpga"
+description = "playing with XOR video patterns on an FPGA"
+language = ""
+stars = 1
+pushed = "2021-04-19"
+
+[[fork]]
+name = "yauque"
+url = "https://github.com/kelu124/yauque"
+description = "Wordle clone you can play forever"
+language = "Jupyter Notebook"
+stars = 0
+pushed = "2022-04-13"
+
+[[fork]]
+name = "ybin"
+url = "https://github.com/kelu124/ybin"
+description = "ybin - a private pastebin project."
+language = ""
+stars = 0
+pushed = "2017-12-25"

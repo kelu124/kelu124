@@ -1,0 +1,24 @@
+# UltrasoundBox — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "UltrasoundBox"
+url = "https://github.com/kelu124/UltrasoundBox"
+description = ""
+homepage = ""
+license = ""
+language = "C++"
+topics = []
+stars = 1
+forks = 2
+watchers = 1
+open_issues = 0
+created = "2017-07-26"
+pushed = "2017-03-05"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-hardware"
+summary = "Early (2017) C++ code for an ultrasound box experiment. Barely documented."
+keywords = ["experiment", "2017"]
+tags = []
+curated = true

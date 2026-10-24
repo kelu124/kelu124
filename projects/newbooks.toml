@@ -1,0 +1,24 @@
+# newbooks — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "newbooks"
+url = "https://github.com/kelu124/newbooks"
+description = "Reusable templates for AI-addressed book promotion pages (/for-ai format), seeded from co-existence.ai"
+homepage = "https://co-existence.ai/for-ai"
+license = ""
+language = ""
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2026-06-08"
+pushed = "2026-06-08"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ai"
+summary = "Reusable templates for AI-addressed book promotion pages (the /for-ai format seeded from co-existence.ai): a fill-in-the-blank markdown page and companion JSON, plus instructions for an agent to adapt them to a new book."
+keywords = ["for-ai", "templates", "book promotion", "agents", "llm-readable"]
+tags = []
+curated = true

@@ -1,0 +1,24 @@
+# DAC2932 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "DAC2932"
+url = "https://github.com/kelu124/DAC2932"
+description = "A rp2040 controlled fast DAC with 2 fast, 4 slower 12 bits outputs (DAC2932)"
+homepage = "https://un0rick.cc"
+license = ""
+language = "C"
+topics = ["dac", "dac2932", "gradients", "kicad", "openmri", "pmod", "rp2040", "ultrasound"]
+stars = 6
+forks = 0
+watchers = 6
+open_issues = 0
+created = "2024-09-25"
+pushed = "2024-09-30"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A fast DAC board with no FPGA in sight: a DAC2932 driven by an RP2040 gives two 12-bit outputs at 40 Msps plus four slower ~1 Msps voltage DACs. Built to emulate ultrasound signals and for open MRI gradient experiments, in the PMOD-friendly pic0rick family. KiCad hardware, standard pico SDK firmware."
+keywords = ["dac", "40msps", "signal generation", "open mri", "gradients", "pmod", "kicad"]
+tags = ["rp2040", "dac2932", "kicad"]
+curated = true

@@ -1,0 +1,24 @@
+# FIFA2026 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "FIFA2026"
+url = "https://github.com/kelu124/FIFA2026"
+description = "FIFA World Cup 2026 predictions tracker"
+homepage = ""
+license = ""
+language = "Python"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2026-06-12"
+pushed = "2026-07-20"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "fun"
+summary = "A FIFA World Cup 2026 predictions tracker: match-by-match predictions, actual scores and points, plus a Poisson scoreline predictor fed by betting-market odds and the skill that drives it."
+keywords = ["world cup", "predictions", "poisson", "betting odds", "football"]
+tags = []
+curated = true

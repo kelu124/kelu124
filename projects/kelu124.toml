@@ -1,0 +1,24 @@
+# kelu124 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "kelu124"
+url = "https://github.com/kelu124/kelu124"
+description = ""
+homepage = ""
+license = ""
+language = "Python"
+topics = []
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2022-06-11"
+pushed = "2026-10-22"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "meta"
+summary = "This very repo: the GitHub profile README plus the scripts that keep it honest (star badges, OSHWA table, papers list) and the projects catalogue you are reading."
+keywords = ["profile", "readme", "automation", "catalogue"]
+tags = []
+curated = true

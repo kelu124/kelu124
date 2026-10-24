@@ -1,0 +1,24 @@
+# OAI — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "OAI"
+url = "https://github.com/kelu124/OAI"
+description = "A lib to cache calls to OpenAI API - custom"
+homepage = ""
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+topics = ["caching", "openai"]
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2023-11-12"
+pushed = "2024-01-29"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ai"
+summary = "A small python module to cache question/answer pairs sent to the OpenAI API (MongoDB backed, with seeds to retry the same prompt): faster, cheaper, and the backbone of the ISO 37101 mapping bots. GPL-3.0."
+keywords = ["openai", "cache", "mongodb", "llm", "python module"]
+tags = []
+curated = true

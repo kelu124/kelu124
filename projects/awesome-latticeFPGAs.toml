@@ -1,0 +1,24 @@
+# awesome-latticeFPGAs — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "awesome-latticeFPGAs"
+url = "https://github.com/kelu124/awesome-latticeFPGAs"
+description = ":book: List of FPGA Lattice boards using open tools"
+homepage = ""
+license = ""
+language = ""
+topics = ["awesome", "awesome-list", "fpga", "icestorm", "lattice-fpga"]
+stars = 363
+forks = 22
+watchers = 363
+open_issues = 0
+created = "2020-01-04"
+pushed = "2026-09-27"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "fpga"
+summary = "A curated, awesome-style list of FPGA boards built on Lattice parts (iCE40 HX1K/HX4K/HX8K, UP5K, ECP5, CrossLink-NX...) that work with the open toolchain (yosys, nextpnr, icestorm). Boards are sorted by chip family with notes on interface (FTDI, serial, GPIO), openness and whether they are still available."
+keywords = ["awesome list", "lattice", "ice40", "ecp5", "open toolchain", "yosys", "nextpnr", "icestorm", "boards"]
+tags = ["fpga", "ice40", "hx4k", "hx8k", "up5k", "ecp5", "ftdi"]
+curated = true

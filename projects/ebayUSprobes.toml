@@ -1,0 +1,24 @@
+# ebayUSprobes — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "ebayUSprobes"
+url = "https://github.com/kelu124/ebayUSprobes"
+description = "Analysing ebay probes offers in case something good pops up !"
+homepage = ""
+license = "GPL-3.0"
+language = "Jupyter Notebook"
+topics = []
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2020-03-01"
+pushed = "2020-06-19"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-research"
+summary = "Notebooks analysing eBay offers of ultrasound probes, in case something good pops up: prices, models, where the bargains are. GPL-3.0."
+keywords = ["ebay", "probes", "scraping", "market watch"]
+tags = []
+curated = true

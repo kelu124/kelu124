@@ -1,0 +1,24 @@
+# pic32arick — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "pic32arick"
+url = "https://github.com/kelu124/pic32arick"
+description = "PIC32A as a pulse-echo device"
+homepage = ""
+license = ""
+language = ""
+topics = ["pic32a", "pulseecho", "ultrasound"]
+stars = 4
+forks = 0
+watchers = 4
+open_issues = 0
+created = "2025-06-01"
+pushed = "2026-07-11"
+archived = false
+default_branch = "main"
+fetched = "2026-10-24"
+
+category = "ultrasound-hardware"
+summary = "Why not use a PIC32AK1216GC41064 as a pulse-echo device? It has two 40 Msps 12-bit ADCs, three 100 MHz op-amps, DACs and high-res PWM on chip. Design notes for a 5V pulser, MD0100 protection, I2C-controlled gain, a Raspberry Pi header and a SAO connector. Early stage, in the backlog."
+keywords = ["pulse echo", "microcontroller", "40msps", "on-chip opamp", "sao", "backlog"]
+tags = ["pic32"]
+curated = true

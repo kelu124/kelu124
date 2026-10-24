@@ -1,0 +1,24 @@
+# un0rick — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "un0rick"
+url = "https://github.com/kelu124/un0rick"
+description = "smallish ice40 / raspberrypi ultrasound hardware"
+homepage = "http://un0rick.cc"
+license = "NOASSERTION"
+language = "Jupyter Notebook"
+topics = ["fpga", "ftdi", "hardware", "hx4k", "imaging", "lattice", "ndt", "pulseecho", "raspberry-pi", "spi", "ultrasound"]
+stars = 177
+forks = 31
+watchers = 177
+open_issues = 0
+created = "2018-03-01"
+pushed = "2026-10-08"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "ultrasound-hardware"
+summary = "A smallish single-channel ultrasound pulse-echo board around a Lattice iCE40HX4K: 64 Msps ADC, AD8331 time-gain compensation, MD1210 pulser and 8 Mbit SRAM, fully controlled over SPI from a Raspberry Pi, USB (FTDI) or even an M5Stack. Open toolchain for the gateware, python lib and tutorials included. OSHWA certified FR000005, and the board that made un0rick.cc a thing."
+keywords = ["ultrasound", "pulse echo", "single channel", "64msps", "ad8331", "tgc", "spi", "oshwa certified", "tapr"]
+tags = ["ice40", "hx4k", "fpga", "raspberry-pi", "ftdi"]
+curated = true

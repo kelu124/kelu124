@@ -1,0 +1,24 @@
+# DRV8662-devkit — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "DRV8662-devkit"
+url = "https://github.com/kelu124/DRV8662-devkit"
+description = "A DRV8662 devkit"
+homepage = ""
+license = "MIT"
+language = ""
+topics = []
+stars = 1
+forks = 0
+watchers = 1
+open_issues = 0
+created = "2020-09-27"
+pushed = "2020-10-03"
+archived = false
+default_branch = "master"
+fetched = "2026-10-24"
+
+category = "hardware"
+summary = "A DRV8662 devkit: a 250V rail out of 5V, originally a piezo haptic driver, handy for pulsers. MIT."
+keywords = ["high voltage", "250v", "boost", "devkit"]
+tags = ["drv8662"]
+curated = true
