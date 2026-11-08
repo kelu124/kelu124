@@ -36,7 +36,7 @@
 
 ### 🔊 Ultrasound hardware
 
-> Latest stable release: **[pic0rick](https://github.com/kelu124/pic0rick/)** ⭐ 113, an rp2040-based pulse-echo acquisition board.
+> Latest stable release: **[pic0rick](https://github.com/kelu124/pic0rick/)** ⭐ 117, an rp2040-based pulse-echo acquisition board.
 
 **In the works**
 
@@ -57,10 +57,10 @@
 
 | Board | What it was |
 |---|---|
-| **[murgen-dev-kit](https://github.com/kelu124/murgen-dev-kit)** ⭐ 308 | The initial BeagleBone board |
-| **[echomods](https://github.com/kelu124/echomods/)** ⭐ 460 | Ultrasound processing modules |
+| **[murgen-dev-kit](https://github.com/kelu124/murgen-dev-kit)** ⭐ 311 | The initial BeagleBone board |
+| **[echomods](https://github.com/kelu124/echomods/)** ⭐ 463 | Ultrasound processing modules |
 | **[un0rick](https://github.com/kelu124/un0rick)** ⭐ 177 | The first FPGA board, ice40 + Raspberry Pi: large and efficient |
-| **[lit3rick](https://github.com/kelu124/lit3rick/)** ⭐ 46 | Its smaller successor, and the [lit3-32](https://github.com/kelu124/lit3rick/tree/lit3-32) variant with more gain |
+| **[lit3rick](https://github.com/kelu124/lit3rick/)** ⭐ 49 | Its smaller successor, and the [lit3-32](https://github.com/kelu124/lit3rick/tree/lit3-32) variant with more gain |
 | **[0xa5eded](https://github.com/kelu124/0xa5eded)** | A fast rp2040 acquisition board |
 | **[bomanz](https://github.com/kelu124/bomanz)** ⭐ 22 | High-speed Raspberry Pi HAT for data acquisition |
 | **[PMOD_rp2040](https://github.com/kelu124/PMOD_rp2040)** | Signal acquisition and transmission modules, PMOD standard |
@@ -107,6 +107,8 @@ Designs certified by the [Open Source Hardware Association](https://certificatio
 **🤖 Experiments with Claude**
 
 - **[E32Mud](https://github.com/kelu124/E32Mud)** - An ESP32 MUD to play on a portal, nice HTML page, for a persisting world served on WiFi by the ESP32
+- **[ESP32C6_PlanesFeed](https://github.com/kelu124/ESP32C6_PlanesFeed)** - The three planes closest overhead, live on a tiny ESP32-C6 LCD board: routes, a mini radar, one button to flip through it all
+- **[inky-frame](https://github.com/kelu124/inky-frame)** - My fork of Pimoroni's Inky Frame, with an SD photo frame added to the ePaper display ;)
 
 **🦞 Experiments with NanoClaw**
 
