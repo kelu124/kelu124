@@ -9,13 +9,13 @@ language = "HTML"
 topics = ["high-voltage", "ndt", "ultrasound", "ultrasound-imaging"]
 stars = 5
 forks = 2
-watchers = 5
+watchers = 1
 open_issues = 0
 created = "2019-08-11"
 pushed = "2019-09-22"
 archived = false
 default_branch = "master"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "hardware"
 summary = "A small high-voltage supply delivering both a positive and a negative rail for bipolar ultrasound pulsers, based on the MAX1846 and HV9150."

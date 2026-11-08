@@ -15,7 +15,7 @@ created = "2024-10-07"
 pushed = "2024-10-07"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "web"
 summary = "A glTF viewer web component (Polymer) reused to display 3D models of the PROBONO living labs. Mostly upstream code, MIT."

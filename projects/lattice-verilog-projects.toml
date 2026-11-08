@@ -15,7 +15,7 @@ created = "2026-09-27"
 pushed = "2026-09-29"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "fpga"
 summary = "A knowledge base of open gateware for the ULX3S and other small Lattice boards (ECP5, iCE40 UP5K, HX8K/HX4K): which projects exist, what each core does, FPGA and toolchain targeted, license, testbenches, and which blocks can be lifted into a new design. 218 reusable cores in 34 functions, published as a GitHub Pages site and maintained with Claude Code."

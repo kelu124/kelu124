@@ -14,7 +14,7 @@ description: Write or refresh the hand-curated part (category, summary, keywords
 ```bash
 python3 .claude/scripts/projects_sync.py --check          # lists "awaiting curation"
 grep -l 'curated = false' projects/*.toml
-python3 .claude/scripts/projects_sync.py --force --hook   # re-sync now, ignoring the 30-day gate
+python3 .claude/scripts/projects_sync.py --force --hook   # re-sync now, ignoring the 14-day gate
 ```
 
 ## 2. Read the repo before writing

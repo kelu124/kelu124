@@ -15,7 +15,7 @@ created = "2015-09-22"
 pushed = "2015-10-20"
 archived = false
 default_branch = "master"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ultrasound-hardware"
 summary = "Some 2015 Red Pitaya code and scripted commands used to understand the board for early echOpen experiments."

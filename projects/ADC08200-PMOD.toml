@@ -9,13 +9,13 @@ language = "HTML"
 topics = ["adc", "adc08200", "analog-to-digital-converter", "pmod"]
 stars = 3
 forks = 1
-watchers = 3
+watchers = 1
 open_issues = 0
 created = "2020-10-30"
 pushed = "2020-10-30"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "hardware"
 summary = "A PMOD carrying an ADC08200 (8-bit, up to 200 Msps) to test high speed ADCs easily on any FPGA board. Schematics and BOM, TAPR licensed."

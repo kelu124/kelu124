@@ -15,7 +15,7 @@ created = "2024-04-06"
 pushed = "2025-01-19"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "hardware"
 summary = "An 8-bit, 125 Msps standalone ADC pHAT (sha1 of pHATrick = 0xA5EDED) in the pic0rick lineage, with the rp2040 tucked under the board to expose the artwork. Square and sine wave acquisitions and spectra, v2 fixes listed. TAPR licensed."

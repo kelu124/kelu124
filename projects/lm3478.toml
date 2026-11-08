@@ -15,7 +15,7 @@ created = "2020-10-03"
 pushed = "2020-10-03"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "hardware"
 summary = "A small board around the LM3478 to generate an ultrasound-friendly +-90V for pulsers. Open source hardware, MIT."

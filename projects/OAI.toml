@@ -15,7 +15,7 @@ created = "2023-11-12"
 pushed = "2024-01-29"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ai"
 summary = "A small python module to cache question/answer pairs sent to the OpenAI API (MongoDB backed, with seeds to retry the same prompt): faster, cheaper, and the backbone of the ISO 37101 mapping bots. GPL-3.0."

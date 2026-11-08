@@ -9,13 +9,13 @@ language = "Python"
 topics = ["hardware", "python", "retroengineering", "ultrasound", "ultrasound-imaging"]
 stars = 18
 forks = 2
-watchers = 18
+watchers = 3
 open_issues = 1
 created = "2017-11-11"
 pushed = "2017-11-11"
 archived = false
 default_branch = "master"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ultrasound-software"
 summary = "Python barebones to talk to a UProbe-1 wireless ultrasound probe: PCAP captures of the wifi traffic, listeners on the data and info ports, notebooks to understand headers, rebuild videos and even write a pseudo-valid DICOM. CC-BY-SA."

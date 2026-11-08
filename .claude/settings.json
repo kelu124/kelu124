@@ -36,9 +36,15 @@
           },
           {
             "type": "command",
+            "command": "cd \"$CLAUDE_PROJECT_DIR\" && python3 .claude/scripts/projects_tracker.py --hook 2>/dev/null || true",
+            "timeout": 120,
+            "statusMessage": "Tracking stars, forks and watchers…"
+          },
+          {
+            "type": "command",
             "command": "cd \"$CLAUDE_PROJECT_DIR\" && python3 .claude/scripts/projects_sync.py --hook 2>/dev/null || true",
             "timeout": 120,
-            "statusMessage": "Refreshing the projects catalogue (monthly)…"
+            "statusMessage": "Refreshing the projects catalogue (every 2 weeks)…"
           }
         ]
       }

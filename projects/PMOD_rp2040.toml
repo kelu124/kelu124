@@ -9,13 +9,13 @@ language = "C"
 topics = ["ft4222", "hardware", "hv", "kicad", "pmod", "pulser", "rp2040", "ultrasound"]
 stars = 8
 forks = 1
-watchers = 8
+watchers = 2
 open_issues = 0
 created = "2024-04-20"
 pushed = "2024-11-15"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "hardware"
 summary = "A family of PMODs for the rp2040-based boards (pic0rick and friends): HV pulser + HV source, PSRAM, R2R DAC, a 6-bit VGA output and an (untested) FT4222 USB bridge. KiCad sources, TAPR hardware license."

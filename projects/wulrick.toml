@@ -15,7 +15,7 @@ created = "2026-06-21"
 pushed = "2026-08-07"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ultrasound-research"
 summary = "A structured technical comparison of pic0rick and ETH Zurich's WULPUS wearable ultra-low-power probe: ADC, front end, pulser, mux, connectivity, power, form factor and licenses, derived from schematics, datasheets and papers. Not a ranking, a map of what each design is good at."

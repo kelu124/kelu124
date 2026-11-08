@@ -15,7 +15,7 @@ created = "2025-05-05"
 pushed = "2025-11-22"
 archived = true
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ai"
 summary = "Using large language models to map urban initiatives onto the ISO 37101 framework (six purposes x twelve issues): review source content, produce Excel files for human review, visualise the grid and find initiatives matching requirements. Code and data behind the published article."

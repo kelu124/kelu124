@@ -9,13 +9,13 @@ language = "HTML"
 topics = []
 stars = 4
 forks = 3
-watchers = 4
+watchers = 1
 open_issues = 0
 created = "2018-05-01"
 pushed = "2018-03-14"
 archived = false
 default_branch = "master"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ultrasound-hardware"
 summary = "KiCad design files for the analog circuitry of one channel of an ultrasound imaging system (transmitter + receiver), with an AD8331-based VGA subcircuit and several transmitter variants (single transistor, push-pull MOSFETs, MD1213 + TC6320). Designed by William Meng, Cindy Xiao and Ruoyu Sheng; mirrored here."

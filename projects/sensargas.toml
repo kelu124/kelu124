@@ -15,7 +15,7 @@ created = "2019-06-13"
 pushed = "2019-06-13"
 archived = false
 default_branch = "master"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "hardware"
 summary = "Requirements and sensor survey for Sensargas, a cheap participatory sensor node to detect Sargassum seaweed (H2S, temperature, humidity, dust, VOCs) with wifi, Bluetooth or LoRa links and low-energy constraints."

@@ -15,7 +15,7 @@ created = "2020-04-03"
 pushed = "2020-04-06"
 archived = false
 default_branch = "master"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "data"
 summary = "Exploring the French 2020 municipal elections datasets from data.gouv.fr: which mayors were re-elected, town contact details, a suspicious 100% peak in small towns. Cleaning, processing and sense-making notebooks."

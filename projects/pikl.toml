@@ -15,7 +15,7 @@ created = "2026-08-07"
 pushed = "2026-08-09"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "fun"
 summary = "Pickomino (Regenwormen) rules reference, strategy guide and a Monte Carlo simulation engine with a live simulation page, managed by the Pikl agent."

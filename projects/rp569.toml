@@ -2,20 +2,20 @@
 # Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
 name = "rp569"
 url = "https://github.com/kelu124/rp569"
-description = "rp569"
+description = "RP569 - PIOs to usb3 ( rp2350 x ch569 )"
 homepage = "https://kelu124.github.io/rp569/"
 license = ""
 language = "C"
-topics = []
-stars = 1
+topics = ["ch569", "hardware", "hardware-designs", "oshwa", "pio", "rp2350", "rp2350b", "usb3"]
+stars = 3
 forks = 0
-watchers = 1
+watchers = 3
 open_issues = 0
 created = "2026-10-23"
-pushed = "2026-10-24"
+pushed = "2026-11-02"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "hardware"
 summary = "An open hardware board (KiCad, 4-layer, 50x70 mm) pairing a Raspberry Pi RP2350B with a WCH CH569W: the RP2350B generates high-speed data (or acts as an 8-channel logic analyser) and the CH569 streams it to the host over USB 3.0 SuperSpeed. v1.0 is fully routed with JLCPCB production files; first firmware for both chips builds but has not run on hardware yet."

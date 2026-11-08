@@ -15,7 +15,7 @@ created = "2021-12-19"
 pushed = "2022-01-01"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ultrasound-research"
 summary = "Sources for short papers and technical notes about the open ultrasound boards, prepared for Zenodo."

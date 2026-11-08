@@ -9,13 +9,13 @@ language = "Jupyter Notebook"
 topics = ["osint", "scraping", "substack", "substack-toolkit"]
 stars = 3
 forks = 1
-watchers = 3
+watchers = 1
 open_issues = 0
 created = "2022-10-08"
 pushed = "2026-08-23"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "data"
 summary = "Tooling behind the Curious Futures substack: scraping and managing the links shared in the newsletter, so they can be classified, searched and reused (see 2026tarot)."

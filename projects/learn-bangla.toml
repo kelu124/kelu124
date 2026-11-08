@@ -15,7 +15,7 @@ created = "2026-05-24"
 pushed = "2026-06-27"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ai"
 summary = "A Bengali sentence corpus (script, phonetic, French) and a flashcard site, built and maintained by a daily practice agent called Bhai that emails three new sentences twice a day and pushes them back to the repo. An experiment in agent-run language learning."

@@ -9,13 +9,13 @@ language = "AGS Script"
 topics = ["altium", "fpga", "ft600", "gerbers", "hardware", "pmod", "usb3", "usbc"]
 stars = 8
 forks = 2
-watchers = 8
+watchers = 2
 open_issues = 0
 created = "2021-02-14"
 pushed = "2022-05-08"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "hardware"
 summary = "A breakout of the FTDI FT600 USB 3.0 FIFO bridge: 8 data bits exposed on two PMODs, USB-C on the other side, to get FPGA data out fast. OSHWA certified, CERN-OHL-S v2, Altium sources and gerbers."

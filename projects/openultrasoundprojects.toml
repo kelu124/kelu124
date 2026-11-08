@@ -9,13 +9,13 @@ language = "Python"
 topics = []
 stars = 28
 forks = 6
-watchers = 28
+watchers = 3
 open_issues = 0
 created = "2018-01-14"
 pushed = "2024-03-08"
 archived = false
 default_branch = "master"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ultrasound-research"
 summary = "A curated list of open source ultrasound projects, whatever the use of ultrasound: imaging toolkits (USTK, echOpen, Columbia), bat recorders, beacon detectors, and so on. Fork, edit OSProjects.md, push it back."

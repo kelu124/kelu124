@@ -15,7 +15,7 @@ created = "2016-03-26"
 pushed = "2021-02-11"
 archived = false
 default_branch = "master"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ultrasound-research"
 summary = "Mining patents on early ultrasound technologies: scripts to fetch and cache US patents with their backward and forward citations, save the images, plot the citation graph, and a bit of NLTK parsing on top (plus a 2020 pandas rewrite)."

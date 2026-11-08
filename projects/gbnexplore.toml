@@ -15,7 +15,7 @@ created = "2025-11-21"
 pushed = "2025-11-23"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ai"
 summary = "Sustainable-city use-case explorer: takes the 49 PROBONO use cases, asks Perplexity for five comparable real-world initiatives each, stores the results, publishes them on GitHub Pages and positions everything on the ISO 37101 12x6 matrix."

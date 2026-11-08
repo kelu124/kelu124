@@ -15,7 +15,7 @@ created = "2013-05-20"
 pushed = "2013-05-20"
 archived = false
 default_branch = "master"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "other"
 summary = "Matlab scripts for surface plasmon modeling, from the 2013 student days. No README, left as is."

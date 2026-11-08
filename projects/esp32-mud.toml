@@ -15,7 +15,7 @@ created = "2024-05-29"
 pushed = "2024-07-04"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "fun"
 summary = "The earliest notes for the ESP32 MUD: just the esptool commands to flash MicroPython on an ESP32-C3. See E32Mud for the real thing."

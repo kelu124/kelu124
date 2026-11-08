@@ -13,7 +13,7 @@ https://github.com/kelu124. Claude's job here is to keep it reasonably up to dat
 - `.claude/history/stars.csv` — star history (`date,repo,stars,delta`), appended by
   every audit run, only for repos whose count changed. Commit it with README updates.
 - `.claude/settings.json` — SessionStart hooks run the audit, the OSHWA sync, the papers sync
-  and the (monthly) projects catalogue sync at startup; if they print anything, tell the
+  the projects tracker and the (two-weekly) projects catalogue sync at startup; if they print anything, tell the
   user (offer the `update-profile` / `curate-projects` skill / a commit).
 - `.claude/scripts/oshwa_sync.py` — rewrites the OSHWA-certified table between
   `<!-- OSHWA:START -->` / `<!-- OSHWA:END -->` (designs by Luc Jonveaux / kelu124).
@@ -34,10 +34,14 @@ https://github.com/kelu124. Claude's job here is to keep it reasonably up to dat
   `.claude/scripts/projects_sync.py` refreshes the managed fields, seeds files for new
   repos (`curated = false`) and rebuilds the README via `.claude/scripts/projects_readme.py`.
   The SessionStart hook runs it only when `.claude/history/projects_sync.json` says the
-  last sync is ≥ 30 days old (`--force` to override). `tags` = chips / platforms / EDA
+  last sync is ≥ 14 days old (`--force` to override). `tags` = chips / platforms / EDA
   tools only (rp2040, rp2350, ch569, pic32, ecp5, up5k, hx4k, hx8k, ice40, esp32, attiny,
   raspberry-pi, kicad, altium…); domain words go in `keywords`; `topics` are GitHub's.
   Curating a new entry = the `curate-projects` skill.
+- `projects/tracker/<repo>.json` — stars, forks and watchers per original repo, rows sorted by
+  date, added only when a count changes. `.claude/scripts/projects_tracker.py` runs from the
+  SessionStart hook once a day. Real watcher counts cost one API call per repo, so without
+  `GITHUB_TOKEN` they fill in over several runs (`null` until checked).
 - `.claude/skills/update-profile/` — the refresh workflow.
 - `.claude/skills/curate-projects/` — writing summaries/keywords/tags for new catalogue entries.
 

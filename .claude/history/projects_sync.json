@@ -1,7 +1,9 @@
 {
-  "last_sync": "2026-10-24",
-  "originals": 95,
-  "forks": 149,
-  "new": [],
+  "last_sync": "2026-11-08",
+  "originals": 96,
+  "forks": 150,
+  "new": [
+    "ESP32C6_PlanesFeed"
+  ],
   "gone": []
 }

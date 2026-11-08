@@ -15,7 +15,7 @@ created = "2025-06-28"
 pushed = "2026-05-27"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "fun"
 summary = "A self-contained MUD (multi-user dungeon) server running on an ESP32-C3 in MicroPython: the board becomes a wifi hotspot with a captive portal, anyone who connects lands in a browser terminal inside the text adventure. Accounts, rooms and notes survive reboots, and it runs on a PC for development."

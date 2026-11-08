@@ -21,9 +21,9 @@ Usage:
   python3 .claude/scripts/projects_sync.py            # sync now, report
   python3 .claude/scripts/projects_sync.py --check    # report only, write nothing
   python3 .claude/scripts/projects_sync.py --hook     # SessionStart: runs only if the
-                                                      # last sync is >= 30 days old,
+                                                      # last sync is >= 14 days old,
                                                       # quiet when offline
-  python3 .claude/scripts/projects_sync.py --force    # ignore the 30-day gate (with --hook)
+  python3 .claude/scripts/projects_sync.py --force    # ignore the 14-day gate (with --hook)
 
 Stdlib only (Python >= 3.11 for tomllib). Set GITHUB_TOKEN to raise the 60 req/h
 anonymous API limit; READMEs come from raw.githubusercontent.com (not rate-limited).
@@ -46,7 +46,8 @@ ROOT = Path(__file__).resolve().parents[2]
 PROJECTS = ROOT / "projects"
 FORKS = PROJECTS / "forks.toml"
 STATE = ROOT / ".claude" / "history" / "projects_sync.json"
-MIN_DAYS = 30
+TRACKER = PROJECTS / "tracker"
+MIN_DAYS = 14
 
 MANAGED = ["name", "url", "description", "homepage", "license", "language", "topics",
            "stars", "forks", "watchers", "open_issues", "created", "pushed", "archived",
@@ -168,7 +169,17 @@ def load_projects():
     return out
 
 
+def tracked_watchers(name):
+    """Latest real watcher count from projects_tracker.py, None if not known yet."""
+    try:
+        rows = json.loads((TRACKER / f"{name}.json").read_text())
+    except (OSError, ValueError):
+        return None
+    return rows[-1]["watchers"] if rows else None
+
+
 def managed_fields(r, today):
+    watchers = tracked_watchers(r["name"])
     return {
         "name": r["name"],
         "url": r["html_url"],
@@ -179,7 +190,7 @@ def managed_fields(r, today):
         "topics": sorted(r.get("topics") or []),
         "stars": r["stargazers_count"],
         "forks": r["forks_count"],
-        "watchers": r["subscribers_count"] if "subscribers_count" in r else r["watchers_count"],
+        "watchers": watchers if watchers is not None else r["watchers_count"],
         "open_issues": r["open_issues_count"],
         "created": r["created_at"][:10],
         "pushed": (r["pushed_at"] or "")[:10],
@@ -228,8 +239,8 @@ def load_state():
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--check", action="store_true", help="report only, write nothing")
-    ap.add_argument("--hook", action="store_true", help="terse SessionStart mode with the monthly gate")
-    ap.add_argument("--force", action="store_true", help="ignore the monthly gate")
+    ap.add_argument("--hook", action="store_true", help="terse SessionStart mode with the 14-day gate")
+    ap.add_argument("--force", action="store_true", help="ignore the 14-day gate")
     args = ap.parse_args()
 
     today = dt.date.today().isoformat()

@@ -1,5 +1,5 @@
 # Forks of other people's repositories — fully managed by .claude/scripts/projects_sync.py
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 [[fork]]
 name = "13_potentiel_solaire"
@@ -464,6 +464,14 @@ description = "Tools and Examples for IcoBoard"
 language = "Verilog"
 stars = 1
 pushed = "2017-05-29"
+
+[[fork]]
+name = "inky-frame"
+url = "https://github.com/kelu124/inky-frame"
+description = "inkyframe"
+language = "C++"
+stars = 0
+pushed = "2026-11-08"
 
 [[fork]]
 name = "IntersonManager"

@@ -15,7 +15,7 @@ created = "2026-06-24"
 pushed = "2026-06-24"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "hardware"
 summary = "Firmware for the WCH CH569W USB3_SSP board: a composite USB 3.0 SuperSpeed device exposing the microSD as a mass-storage drive and two CDC-ACM ports (a UART bridge to an FPGA and a read-only debug log), with a mux protocol so the FPGA and the CH569 share the SD card. Companion to the we_gate / rp569 work."

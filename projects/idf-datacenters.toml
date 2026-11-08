@@ -15,7 +15,7 @@ created = "2026-05-29"
 pushed = "2026-06-08"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "data"
 summary = "Mapping the Ile-de-France transmission grid to find the best substations for a 20-500 MW datacenter: open data from RTE, Enedis, OSM and Georisques ICPE, combined with a PyPSA linear optimal power flow model to score and rank sites."

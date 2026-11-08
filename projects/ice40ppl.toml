@@ -15,7 +15,7 @@ created = "2018-01-27"
 pushed = "2020-01-18"
 archived = false
 default_branch = "master"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "fpga"
 summary = "Mapping the iCE40 / open FPGA community from tweets: who talks to whom, who to follow. A notebook and a dataset."

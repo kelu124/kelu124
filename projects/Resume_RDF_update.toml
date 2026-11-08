@@ -15,7 +15,7 @@ created = "2026-04-25"
 pushed = "2026-06-12"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ai"
 summary = "Parse a CV (PDF or text) into a Turtle RDF knowledge graph following the ResumeRDF ontology, using the Claude API: jobs, projects, clients, skills, MOOCs and publications become queryable triples. Usable as a python package, a CLI or a password-protected Streamlit app."

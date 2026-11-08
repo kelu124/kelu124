@@ -15,7 +15,7 @@ created = "2021-05-29"
 pushed = "2021-06-25"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "hardware"
 summary = "An ATtiny paired with an N24RF04E dynamic NFC tag: scripts and notes to read and write the tag over I2C."

@@ -15,7 +15,7 @@ created = "2025-02-16"
 pushed = "2025-02-16"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ai"
 summary = "Submission to the Frugal AI Challenge 2025: a quantised sound-classification model (chainsaw / no chainsaw) running in real time on a 2$ RP2040 with a PDM mic and an OLED, at about 0.19 W. Training and implementation notebooks included, ~87% accuracy."

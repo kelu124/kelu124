@@ -15,7 +15,7 @@ created = "2021-05-05"
 pushed = "2021-05-05"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "hardware"
 summary = "BOM, schematics, gerbers and ODB for the high voltage supply used with the lit3rick board."

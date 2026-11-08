@@ -1,0 +1,31 @@
+{
+  "last_run": "2026-11-08",
+  "watchers_missing": 71,
+  "watchers_checked": {
+    "AD8332-devboard": "2026-11-08",
+    "ADC08200-PMOD": "2026-11-08",
+    "Analog_Frontend": "2026-11-08",
+    "DAC2932": "2026-11-08",
+    "Futures": "2026-11-08",
+    "HV9150DevKit": "2026-11-08",
+    "PMOD_rp2040": "2026-11-08",
+    "awesome-latticeFPGAs": "2026-11-08",
+    "bomanz": "2026-11-08",
+    "echomods": "2026-11-08",
+    "ft600": "2026-11-08",
+    "hvpppn": "2026-11-08",
+    "lit3rick": "2026-11-08",
+    "murgen-dev-kit": "2026-11-08",
+    "openultrasoundprojects": "2026-11-08",
+    "pic0rick": "2026-11-08",
+    "pic32arick": "2026-11-08",
+    "pyUProbe1": "2026-11-08",
+    "pyUn0-lib": "2026-11-08",
+    "python-usb-un0rick": "2026-11-08",
+    "pyusbus": "2026-11-08",
+    "ultr4rick": "2026-11-08",
+    "ultrasHound": "2026-11-08",
+    "un0rick": "2026-11-08",
+    "us_rf_processing": "2026-11-08"
+  }
+}

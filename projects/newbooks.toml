@@ -15,7 +15,7 @@ created = "2026-06-08"
 pushed = "2026-06-08"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ai"
 summary = "Reusable templates for AI-addressed book promotion pages (the /for-ai format seeded from co-existence.ai): a fill-in-the-blank markdown page and companion JSON, plus instructions for an agent to adapt them to a new book."

@@ -15,7 +15,7 @@ created = "2021-07-11"
 pushed = "2021-07-11"
 archived = false
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ultrasound-hardware"
 summary = "Notebooks around a foetal doppler teardown and signal exploration. Unlicense, barely documented."

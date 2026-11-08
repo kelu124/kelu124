@@ -15,7 +15,7 @@ created = "2024-10-24"
 pushed = "2025-10-05"
 archived = true
 default_branch = "main"
-fetched = "2026-10-24"
+fetched = "2026-11-08"
 
 category = "ai"
 summary = "Building a knowledge graph from the literature on health resilience in green building neighbourhoods (PROBONO task 3.5): GROBID to parse PDFs, Owlready2 for the RDF, embeddings and LLMs to consolidate risks, stakeholders and mitigations. Light version of the risk compendium."
