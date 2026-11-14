@@ -9,13 +9,13 @@ language = "Rich Text Format"
 topics = []
 stars = 1
 forks = 1
-watchers = 1
+watchers = 2
 open_issues = 0
 created = "2021-01-22"
 pushed = "2021-06-19"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-research"
 summary = "Working material for a hardware review of the ultrasound boards. Placeholder-level README."

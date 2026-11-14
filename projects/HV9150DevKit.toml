@@ -15,7 +15,7 @@ created = "2019-04-15"
 pushed = "2019-04-15"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "hardware"
 summary = "A dev kit around the HV9150 to generate anything from 0 to 250V, for ultrasound pulsers among other things. Schematics, ODB++ and zip, designed by Jorge Arija with kelu124's support, TAPR licensed."

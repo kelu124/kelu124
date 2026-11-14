@@ -15,7 +15,7 @@ created = "2020-09-27"
 pushed = "2020-10-03"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "hardware"
 summary = "A DRV8662 devkit: a 250V rail out of 5V, originally a piezo haptic driver, handy for pulsers. MIT."

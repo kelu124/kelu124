@@ -15,7 +15,7 @@ created = "2019-08-11"
 pushed = "2019-08-11"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "hardware"
 summary = "A pHAT breakout for the NSA1166 pressure sensor conditioner, with both its SPI and I2C buses accessible from the Pi."

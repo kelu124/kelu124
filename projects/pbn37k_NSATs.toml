@@ -9,13 +9,13 @@ language = "Jupyter Notebook"
 topics = []
 stars = 1
 forks = 0
-watchers = 1
+watchers = 0
 open_issues = 0
 created = "2025-10-28"
 pushed = "2025-11-21"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "data"
 summary = "Notebooks around the PROBONO living labs and their non-standard assessment tools (NSATs). Work material, light on documentation."

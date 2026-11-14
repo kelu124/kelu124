@@ -9,13 +9,13 @@ language = "HTML"
 topics = []
 stars = 1
 forks = 0
-watchers = 1
+watchers = 0
 open_issues = 0
 created = "2025-10-25"
 pushed = "2025-12-21"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-hardware"
 summary = "A pic0rick variant where the double PMOD connector is replaced by an HDMI connector, to push acquisitions out fast as DVI. Same 60 Msps front end, pulser PMOD and rp2040 firmware. TAPR licensed."

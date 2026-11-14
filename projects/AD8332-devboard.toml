@@ -15,7 +15,7 @@ created = "2020-12-24"
 pushed = "2021-05-02"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "hardware"
 summary = "A devboard for the AD8332 dual variable gain amplifier (100 dB range) with easily swappable input and 20 MHz output filters, made with Jorge Arija. CERN-OHL-S v2, and handy to test TGC chains for ultrasound front ends."

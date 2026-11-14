@@ -7,7 +7,7 @@ homepage = "https://un0rick.cc/pic0rick"
 license = "NOASSERTION"
 language = "Jupyter Notebook"
 topics = ["ndt", "non-destructive-testing", "pico", "rp2040", "ultrasound", "ultrasound-imaging"]
-stars = 117
+stars = 119
 forks = 27
 watchers = 8
 open_issues = 2
@@ -15,7 +15,7 @@ created = "2024-03-31"
 pushed = "2026-10-24"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-hardware"
 summary = "The current flagship: an RP2040 (or RP2350) based acquisition board for pulse-echo ultrasound, with a 60 Msps 10-bit ADC, protected front end and AD8331 + MCP4812 time-gain compensation. A single PMOD takes the pulser + HV board (three-level pulses via MD1210 + TC6320), a double PMOD takes a VGA output, a MAX14866 mux or whatever you fancy. Both PIOs do the heavy lifting. KiCad files, unified RP2040/RP2350 firmware and notebooks are published, and boards are on Tindie."

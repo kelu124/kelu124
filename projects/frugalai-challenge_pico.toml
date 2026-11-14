@@ -9,13 +9,13 @@ language = "Jupyter Notebook"
 topics = ["ai", "chainsaw", "frugalai", "rp2040", "tinyml"]
 stars = 2
 forks = 1
-watchers = 2
+watchers = 1
 open_issues = 0
 created = "2025-02-16"
 pushed = "2025-02-16"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ai"
 summary = "Submission to the Frugal AI Challenge 2025: a quantised sound-classification model (chainsaw / no chainsaw) running in real time on a 2$ RP2040 with a PDM mic and an OLED, at about 0.19 W. Training and implementation notebooks included, ~87% accuracy."

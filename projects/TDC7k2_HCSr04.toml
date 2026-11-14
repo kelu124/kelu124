@@ -15,7 +15,7 @@ created = "2020-11-04"
 pushed = "2020-12-02"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "hardware"
 summary = "Trying to get a TDC7200 time-to-digital converter and an HC-SR04 ultrasonic ranger to work together on an M5Stack through a level shifter, with a stubborn divide-by-zero in the calibration. Arduino code and patched libs."

@@ -9,13 +9,13 @@ language = "Jupyter Notebook"
 topics = []
 stars = 3
 forks = 1
-watchers = 3
+watchers = 0
 open_issues = 0
 created = "2026-06-21"
 pushed = "2026-08-07"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-research"
 summary = "A structured technical comparison of pic0rick and ETH Zurich's WULPUS wearable ultra-low-power probe: ADC, front end, pulser, mux, connectivity, power, form factor and licenses, derived from schematics, datasheets and papers. Not a ranking, a map of what each design is good at."

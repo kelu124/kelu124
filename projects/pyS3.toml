@@ -15,7 +15,7 @@ created = "2018-04-24"
 pushed = "2018-04-24"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-software"
 summary = "Notes and code to talk to an S3 wifi ultrasound probe: decompiled Java references (probe IP and port, TGC curves, frame structure) as a starting point for a python client."

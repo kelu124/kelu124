@@ -15,7 +15,7 @@ created = "2016-12-12"
 pushed = "2017-08-11"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-research"
 summary = "Mapping the echOpen community: bots crawling Slack and GitHub, a neo4j graph of people, skills and channels, and recommendations of who to connect with. 2016-2017."

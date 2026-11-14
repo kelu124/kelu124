@@ -9,13 +9,13 @@ language = "Jupyter Notebook"
 topics = ["altium", "gerber", "hardware", "hv", "max14866", "mux", "muxes", "switches", "ultrasound"]
 stars = 3
 forks = 1
-watchers = 3
+watchers = 1
 open_issues = 0
 created = "2021-02-14"
 pushed = "2022-01-01"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "hardware"
 summary = "A breakout of the MAX14866, a 16-channel high-voltage switch for ultrasound, tested with the pulse-echo boards on a phantom with 5 piezos in TX/RX pairs. OSHWA certified, CERN-OHL-S v2, Altium sources."

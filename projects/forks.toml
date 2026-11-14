@@ -1,5 +1,5 @@
 # Forks of other people's repositories — fully managed by .claude/scripts/projects_sync.py
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 [[fork]]
 name = "13_potentiel_solaire"

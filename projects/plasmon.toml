@@ -9,13 +9,13 @@ language = "Matlab"
 topics = []
 stars = 3
 forks = 0
-watchers = 3
+watchers = 0
 open_issues = 0
 created = "2013-05-20"
 pushed = "2013-05-20"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "other"
 summary = "Matlab scripts for surface plasmon modeling, from the 2013 student days. No README, left as is."

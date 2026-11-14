@@ -15,7 +15,7 @@ created = "2020-11-04"
 pushed = "2021-07-14"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-software"
 summary = "How to set up and use the un0rick with only a USB cable: jumpers, iceprog to flash the bitstream through the on-board FTDI, udev rules, and the python lib (pyftdi based) with a test bench producing a series of images. GPL-3.0."

@@ -36,12 +36,13 @@
 
 ### 🔊 Ultrasound hardware
 
-> Latest stable release: **[pic0rick](https://github.com/kelu124/pic0rick/)** ⭐ 117, an rp2040-based pulse-echo acquisition board.
+> Latest stable release: **[pic0rick](https://github.com/kelu124/pic0rick/)** ⭐ 119, an rp2040-based pulse-echo acquisition board.
 
 **In the works**
 
 - **[ultr4rick](https://github.com/kelu124/ultr4rick)** - The higher-power successor to pic0rick: RP2350B, 60 MS/s ADC, bipolar HV pulser, 8-channel HV mux, on-board envelope detection
 - **[rp569](https://github.com/kelu124/rp569)** - An RP2350B paired with a WCH CH569W to stream high-speed acquisitions to the host over USB 3.0 (v1.0 routed, JLCPCB files ready, firmware untested on hardware)
+- **[rp417](https://github.com/kelu124/rp417)** - A 6-layer test bench for the WCH CH32H417 (USB3, DVP capture from a 65 MS/s ADC, SDIO), supervised by an RP2350 that powers, flashes and pokes it for automated tests (rev A schematic + draft layout)
 - **[minus](https://github.com/kelu124/minus)** - A minimal, single-channel, low-cost pulse-echo platform, designed as a conference-workshop badge (early design)
 - **[wulrick](https://github.com/kelu124/wulrick)** - Side-by-side technical comparison of pic0rick and ETH Zurich's WULPUS wearable probe
 
@@ -58,7 +59,7 @@
 | Board | What it was |
 |---|---|
 | **[murgen-dev-kit](https://github.com/kelu124/murgen-dev-kit)** ⭐ 311 | The initial BeagleBone board |
-| **[echomods](https://github.com/kelu124/echomods/)** ⭐ 463 | Ultrasound processing modules |
+| **[echomods](https://github.com/kelu124/echomods/)** ⭐ 464 | Ultrasound processing modules |
 | **[un0rick](https://github.com/kelu124/un0rick)** ⭐ 177 | The first FPGA board, ice40 + Raspberry Pi: large and efficient |
 | **[lit3rick](https://github.com/kelu124/lit3rick/)** ⭐ 49 | Its smaller successor, and the [lit3-32](https://github.com/kelu124/lit3rick/tree/lit3-32) variant with more gain |
 | **[0xa5eded](https://github.com/kelu124/0xa5eded)** | A fast rp2040 acquisition board |
@@ -98,7 +99,7 @@ Designs certified by the [Open Source Hardware Association](https://certificatio
 
 ### 🧪 Experimental, FPGA & AI
 
-- **[awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs)** ⭐ 363 - Curated list of Lattice FPGA boards using open tools
+- **[awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs)** ⭐ 366 - Curated list of Lattice FPGA boards using open tools
 - **[lattice-verilog-projects](https://github.com/kelu124/lattice-verilog-projects)** - Knowledge base of 200+ reusable open gateware cores for ULX3S and other Lattice boards ([website](https://kelu124.github.io/lattice-verilog-projects/))
 - **[frugalai-challenge_pico](https://github.com/kelu124/frugalai-challenge_pico)** - TinyML inference on the RP2040 microcontroller
 - **[Futures](https://github.com/kelu124/Futures)** - Substack newsletter link management and analysis
@@ -124,6 +125,8 @@ The whole list is at [Clawd](https://github.com/stars/kelu124/lists/clawd).
 
 - **[barcodebattler](https://github.com/kelu124/barcodebattler)** - BarClode Battler, a browser remake of the 1991 Barcode Battler II: scan any barcode, get a card, fight ([play](https://kelu124.github.io/barcodebattler/))
 - **[pikl](https://github.com/kelu124/pikl)** - Pickomino rules, strategies and Monte Carlo simulations ([live simulation](https://kelu124.github.io/pikl/))
+- **[5mins](https://github.com/kelu124/5mins)** - Why you always seem to wait longer at the bus stop than the average interval: the inspection paradox, simulated ([live](https://kelu124.github.io/5mins/))
+- **[8x8_mapper](https://github.com/kelu124/8x8_mapper)** - Extracting 8x8 sprites from sprite sheets for pixel-art projects
 
 ---
 

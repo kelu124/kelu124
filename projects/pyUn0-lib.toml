@@ -15,7 +15,7 @@ created = "2019-11-22"
 pushed = "2021-05-02"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-software"
 summary = "The un0rick companion python module (python 2 and 3) to drive the board from a Raspberry Pi over the 40-pin ribbon: TGC curves, pulse timings, sampling rate, single or multi-line acquisitions, with results saved as JSON for processing."

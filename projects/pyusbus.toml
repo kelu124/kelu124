@@ -15,7 +15,7 @@ created = "2021-03-25"
 pushed = "2023-01-28"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-software"
 summary = "Python APIs for cheap USB ultrasound probes: get images in three lines of code from an Interson mechanical probe, a BMV convex, a Healson linear HP20L or a BMV linear doppler. Reverse-engineered protocols, udev rules and notebooks, work in progress but already producing frames of forearms and vein phantoms."

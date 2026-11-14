@@ -15,7 +15,7 @@ created = "2019-08-13"
 pushed = "2024-07-16"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-hardware"
 summary = "An up5k board to manage pulse-echo ultrasound acquisition: Lattice iCE40 UP5K, AD9629 12-bit ADC at 64 Msps, AD8331 gain, HV7361 pulser up to +-100V and a MCP4812 DAC for 8 us gain segments. Programmed with no FTDI at all, straight through the Raspberry Pi header, and the gateware can compute an FFT on board and stream it over I2S. OSHWA certified FR000006."

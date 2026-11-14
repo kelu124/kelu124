@@ -9,13 +9,13 @@ language = "Jupyter Notebook"
 topics = []
 stars = 2
 forks = 0
-watchers = 2
+watchers = 1
 open_issues = 0
 created = "2018-01-27"
 pushed = "2020-01-18"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "fpga"
 summary = "Mapping the iCE40 / open FPGA community from tweets: who talks to whom, who to follow. A notebook and a dataset."

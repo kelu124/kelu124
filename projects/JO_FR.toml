@@ -15,7 +15,7 @@ created = "2020-04-14"
 pushed = "2020-04-14"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "data"
 summary = "Exploration de donnees on the Olympic Games (JO), built on other open datasets. Notebooks, French."

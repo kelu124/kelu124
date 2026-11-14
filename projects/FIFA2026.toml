@@ -15,7 +15,7 @@ created = "2026-06-12"
 pushed = "2026-07-20"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "fun"
 summary = "A FIFA World Cup 2026 predictions tracker: match-by-match predictions, actual scores and points, plus a Poisson scoreline predictor fed by betting-market odds and the skill that drives it."

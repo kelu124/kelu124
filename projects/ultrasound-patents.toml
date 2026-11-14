@@ -9,13 +9,13 @@ language = "Jupyter Notebook"
 topics = ["patents", "ultrasound"]
 stars = 3
 forks = 0
-watchers = 3
+watchers = 1
 open_issues = 0
 created = "2016-03-26"
 pushed = "2021-02-11"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-research"
 summary = "Mining patents on early ultrasound technologies: scripts to fetch and cache US patents with their backward and forward citations, save the images, plot the citation graph, and a bit of NLTK parsing on top (plus a 2020 pandas rewrite)."

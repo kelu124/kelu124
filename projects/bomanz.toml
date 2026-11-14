@@ -15,7 +15,7 @@ created = "2017-03-20"
 pushed = "2021-06-19"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "hardware"
 summary = "A high-speed ADC pHAT for the Raspberry Pi, because the existing ADC hats were too slow: three generations, from a 6-bit CA3306 on DIP parts to an ADC08200 at 12 Msps and finally a 24 Msps pHAT. First SMD adventure, TAPR licensed, part of the echOmods family."

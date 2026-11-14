@@ -15,7 +15,7 @@ created = "2025-06-01"
 pushed = "2026-07-11"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-hardware"
 summary = "Why not use a PIC32AK1216GC41064 as a pulse-echo device? It has two 40 Msps 12-bit ADCs, three 100 MHz op-amps, DACs and high-res PWM on chip. Design notes for a 5V pulser, MD0100 protection, I2C-controlled gain, a Raspberry Pi header and a SAO connector. Early stage, in the backlog."

@@ -15,7 +15,7 @@ created = "2022-10-08"
 pushed = "2026-08-23"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "data"
 summary = "Tooling behind the Curious Futures substack: scraping and managing the links shared in the newsletter, so they can be classified, searched and reused (see 2026tarot)."

@@ -15,7 +15,7 @@ created = "2016-02-19"
 pushed = "2021-11-11"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "ultrasound-hardware"
 summary = "The 2016 Murgen open-source ultrasound imaging dev-kit: get a home-made single-element pulse-echo machine running in a garage, hackerspace or fablab for under 500$, with a BitScope, an Arduino/Trinket and a hacked transducer. Where the first (rough!) echo images came from, now superseded by echomods and un0rick."

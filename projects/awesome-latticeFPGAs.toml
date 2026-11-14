@@ -7,7 +7,7 @@ homepage = ""
 license = ""
 language = ""
 topics = ["awesome", "awesome-list", "fpga", "icestorm", "lattice-fpga"]
-stars = 363
+stars = 366
 forks = 22
 watchers = 14
 open_issues = 0
@@ -15,7 +15,7 @@ created = "2020-01-04"
 pushed = "2026-09-27"
 archived = false
 default_branch = "master"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "fpga"
 summary = "A curated, awesome-style list of FPGA boards built on Lattice parts (iCE40 HX1K/HX4K/HX8K, UP5K, ECP5, CrossLink-NX...) that work with the open toolchain (yosys, nextpnr, icestorm). Boards are sorted by chip family with notes on interface (FTDI, serial, GPIO), openness and whether they are still available."

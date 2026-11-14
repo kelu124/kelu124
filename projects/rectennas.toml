@@ -9,13 +9,13 @@ language = ""
 topics = []
 stars = 2
 forks = 0
-watchers = 2
+watchers = 1
 open_issues = 0
 created = "2020-12-24"
 pushed = "2020-12-24"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "hardware"
 summary = "A scrapbook of links and notes on rectennas (energy harvesting from GSM bands), LoRaWAN with ATmega328/ATtiny, and nano-current measurements for very low power nodes."

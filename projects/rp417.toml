@@ -1,0 +1,24 @@
+# rp417 — managed by .claude/scripts/projects_sync.py
+# Fields down to `fetched` are refreshed from GitHub; the rest is hand-curated and kept.
+name = "rp417"
+url = "https://github.com/kelu124/rp417"
+description = "RP2350 x CH32H417"
+homepage = ""
+license = ""
+language = "Python"
+topics = []
+stars = 0
+forks = 0
+watchers = 0
+open_issues = 0
+created = "2026-11-12"
+pushed = "2026-11-14"
+archived = false
+default_branch = "main"
+fetched = "2026-11-14"
+
+category = "hardware"
+summary = "A 6-layer KiCad dev board to push the WCH CH32H417 to its limits (USB3 SuperSpeed throughput, DVP parallel capture from an ADC10065 at 65 MSPS, on-chip ADC/HSADC, SD over SDIO) with automated tests: an on-board RP2350 supervises the CH32 (power, reset, flashing via minichlink/funprog, stimulus from an Si5351) and both chips talk to the host over USB. The CH32 also works standalone. Rev A schematic and draft layout, generated from Python scripts; not yet ordered."
+keywords = ["usb3", "superspeed", "test bench", "automated testing", "parallel capture", "dvp", "adc", "sdio", "high speed streaming"]
+tags = ["rp2350", "ch32h417", "kicad"]
+curated = true

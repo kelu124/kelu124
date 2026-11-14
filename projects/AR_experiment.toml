@@ -9,13 +9,13 @@ language = "HTML"
 topics = []
 stars = 0
 forks = 0
-watchers = 0
+watchers = 1
 open_issues = 0
 created = "2024-02-16"
 pushed = "2024-02-21"
 archived = false
 default_branch = "main"
-fetched = "2026-11-08"
+fetched = "2026-11-14"
 
 category = "other"
 summary = "Links collected for an augmented reality experiment (tutorials, generators). Scrapbook."
